@@ -1,0 +1,5 @@
+{{extend 'layout.html'}}
+{{=A('Cliquez ici pour filtrer seulement le code budgétaire non conforme ou le coût vide (0.00 $)',_href=URL(f='validation_octopus',vars= {'keywords':'ci_payment.account = "9679"  or  ci_payment.purchase_price = "0."'}))}}
+<div>
+{{=grid}}
+</div>

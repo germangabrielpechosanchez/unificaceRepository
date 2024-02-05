@@ -1,0 +1,645 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+S'exception'
+p8
+(dp9
+S'__getslice__'
+p10
+S"<method-wrapper '__getslice__' of exceptions.MemoryError object>"
+p11
+sS'__str__'
+p12
+S"<method-wrapper '__str__' of exceptions.MemoryError object>"
+p13
+sS'__reduce__'
+p14
+S'<built-in method __reduce__ of exceptions.MemoryError object>'
+p15
+sS'__dict__'
+p16
+S'{}'
+p17
+sS'message'
+p18
+S"''"
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.MemoryError object>'
+p21
+sS'__init__'
+p22
+S"<method-wrapper '__init__' of exceptions.MemoryError object>"
+p23
+sS'__setattr__'
+p24
+S"<method-wrapper '__setattr__' of exceptions.MemoryError object>"
+p25
+sS'__reduce_ex__'
+p26
+S'<built-in method __reduce_ex__ of exceptions.MemoryError object>'
+p27
+sS'__new__'
+p28
+S'<built-in method __new__ of type object>'
+p29
+sS'__format__'
+p30
+S'<built-in method __format__ of exceptions.MemoryError object>'
+p31
+sS'__class__'
+p32
+S"<type 'exceptions.MemoryError'>"
+p33
+sS'__doc__'
+p34
+S"'Out of memory.'"
+p35
+sS'__getitem__'
+p36
+S"<method-wrapper '__getitem__' of exceptions.MemoryError object>"
+p37
+sS'__setstate__'
+p38
+S'<built-in method __setstate__ of exceptions.MemoryError object>'
+p39
+sS'__getattribute__'
+p40
+S"<method-wrapper '__getattribute__' of exceptions.MemoryError object>"
+p41
+sS'args'
+p42
+S'()'
+p43
+sS'__subclasshook__'
+p44
+S'<built-in method __subclasshook__ of type object>'
+p45
+sS'__unicode__'
+p46
+S'<built-in method __unicode__ of exceptions.MemoryError object>'
+p47
+sS'__delattr__'
+p48
+S"<method-wrapper '__delattr__' of exceptions.MemoryError object>"
+p49
+sS'__repr__'
+p50
+S"<method-wrapper '__repr__' of exceptions.MemoryError object>"
+p51
+sS'__hash__'
+p52
+S"<method-wrapper '__hash__' of exceptions.MemoryError object>"
+p53
+ssS'evalue'
+p54
+S''
+sS'request'
+p55
+cgluon.html
+XML_unpickle
+p56
+(S's\x05d\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">APPL_MD_PATH</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2/ROOT</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APPL_PHYSICAL_PATH</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APP_POOL_CONFIG</td><td style="vertical-align:top;">:</td><td><div>C:\\inetpub\\temp\\apppools\\unificace\\unificace.config</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APP_POOL_ID</td><td style="vertical-align:top;">:</td><td><div>unificace</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_PASSWORD</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_TYPE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_COOKIE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_FLAGS</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_ISSUER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_SERIALNUMBER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_SUBJECT</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">DOCUMENT_ROOT</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">GATEWAY_INTERFACE</td><td style="vertical-align:top;">:</td><td><div>CGI/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS</td><td style="vertical-align:top;">:</td><td><div>on</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_KEYSIZE</td><td style="vertical-align:top;">:</td><td><div>256</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SECRETKEYSIZE</td><td style="vertical-align:top;">:</td><td><div>2048</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SERVER_ISSUER</td><td style="vertical-align:top;">:</td><td><div>C=US, O=&quot;Entrust, Inc.&quot;, OU=See www.entrust.net/legal-terms, OU=&quot;(c) 2012 Entrust, Inc. - for authorized use only&quot;, CN=Entrust Certification Authority - L1K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SERVER_SUBJECT</td><td style="vertical-align:top;">:</td><td><div>C=CA, S=Quebec, L=Quebec, O=Minist\xe8re de la sant\xe9 et des services sociaux du Qu\xe9bec, CN=*.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>Close</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41:443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_ORIGINAL_URL</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">IIS_UrlRewriteModule</td><td style="vertical-align:top;">:</td><td><div>7.1.1980.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">IIS_WasUrlRewritten</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_ID</td><td style="vertical-align:top;">:</td><td><div>2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_META_PATH</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_NAME</td><td style="vertical-align:top;">:</td><td><div>UNIFICACE</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">LOCAL_ADDR</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">LOGON_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_TRANSLATED</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_HOST</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>19618</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>HEAD</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_URI</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_FILENAME</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT_SECURE</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Microsoft-IIS/8.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">UNENCODED_URL</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">URL</td><td style="vertical-align:top;">:</td><td><div>/handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_pool_config</td><td style="vertical-align:top;">:</td><td><div>C:\\inetpub\\temp\\apppools\\unificace\\unificace.config</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_pool_id</td><td style="vertical-align:top;">:</td><td><div>unificace</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">appl_md_path</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2/ROOT</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">appl_physical_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_password</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_type</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_cookie</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_flags</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_issuer</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_serialnumber</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_subject</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">document_root</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gateway_interface</td><td style="vertical-align:top;">:</td><td><div>CGI/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>Close</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41:443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https</td><td style="vertical-align:top;">:</td><td><div>on</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_keysize</td><td style="vertical-align:top;">:</td><td><div>256</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_secretkeysize</td><td style="vertical-align:top;">:</td><td><div>2048</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_server_issuer</td><td style="vertical-align:top;">:</td><td><div>C=US, O=&quot;Entrust, Inc.&quot;, OU=See www.entrust.net/legal-terms, OU=&quot;(c) 2012 Entrust, Inc. - for authorized use only&quot;, CN=Entrust Certification Authority - L1K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_server_subject</td><td style="vertical-align:top;">:</td><td><div>C=CA, S=Quebec, L=Quebec, O=Minist\xe8re de la sant\xe9 et des services sociaux du Qu\xe9bec, CN=*.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">iis_urlrewritemodule</td><td style="vertical-align:top;">:</td><td><div>7.1.1980.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">iis_wasurlrewritten</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_id</td><td style="vertical-align:top;">:</td><td><div>2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_meta_path</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_name</td><td style="vertical-align:top;">:</td><td><div>UNIFICACE</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_addr</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>S03VWPR00031</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>10.129.65.41</div></td></tr><tr><td><div>S03VWPR00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logon_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_translated</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_host</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>19618</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>HEAD</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port_secure</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Microsoft-IIS/8.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">unencoded_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wfastcgi.http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wfastcgi_http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0000000006DB2AB0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringI object at 0x000000000380F140&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.path_info</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>https</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0000000006DB2AB0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringI object at 0x000000000380F140&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_path_info</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>https</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>S03VWPR00031</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>10.129.65.41</div></td></tr><tr><td><div>S03VWPR00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2022, 8, 29, 5, 4, 58, 253000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2022, 8, 29, 9, 4, 58, 253000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x0000000006D88CC0&gt;</div></td></tr></table></div>'
+tRp57
+sS'frames'
+p58
+(lp59
+(dp60
+S'file'
+p61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\main.py'
+p62
+sS'dump'
+p63
+(dp64
+S'global serve_controller'
+p65
+S'<function serve_controller>'
+p66
+sS'session'
+p67
+S'<Storage {}>'
+p68
+sS'request'
+p69
+S"<Storage {'_vars': None, 'function': 'index', 'c...icace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\'}>"
+p70
+sS'response'
+p71
+S"<Storage {'body': <cStringIO.StringO object at 0...0000000005B48898>, 'view': 'default/index.html'}>"
+p72
+ssS'lnum'
+p73
+I445
+sS'lines'
+p74
+(dp75
+I448
+S''
+sI449
+S'                if static_file:'
+p76
+sI440
+S'                if global_settings.debugging and app != "admin":'
+p77
+sI441
+S'                    import gluon.debug'
+p78
+sI442
+S'                    # activate the debugger'
+p79
+sI443
+S'                    gluon.debug.dbg.do_debug(mainpyfile=request.folder)'
+p80
+sI444
+S''
+sI445
+S'                serve_controller(request, response, session)'
+p81
+sI446
+S'            except HTTP as hr:'
+p82
+sI447
+S'                http_response = hr'
+p83
+ssS'call'
+p84
+S"(environ={'APPL_MD_PATH': '/LM/W3SVC/2/ROOT', 'APPL_PHYSICAL_PATH': r'C:\\Users\\unificace\\unificace\\web2py\\', 'APP_POOL_CONFIG': r'C:\\inetpub\\temp\\apppools\\unificace\\unificace.config', 'APP_POOL_ID': 'unificace', 'AUTH_PASSWORD': '', 'AUTH_TYPE': '', 'AUTH_USER': '', 'CERT_COOKIE': '', 'CERT_FLAGS': '', 'CERT_ISSUER': '', ...}, responder=<bound method handle_response.start of <__main__.handle_response object>>)"
+p85
+sS'func'
+p86
+S'wsgibase'
+p87
+sa(dp88
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\main.py'
+p89
+sg63
+(dp90
+S'response._view_environment'
+p91
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p92
+sS'page'
+p93
+S"{'message': <lazyT 'Bienvenue CEMTL!'>}"
+p94
+sS'global run_view_in'
+p95
+S'<function run_view_in>'
+p96
+sS'response'
+p97
+S"<Storage {'body': <cStringIO.StringO object at 0...0000000005B48898>, 'view': 'default/index.html'}>"
+p98
+ssg73
+I184
+sg74
+(dp99
+I179
+S'    response._view_environment = copy.copy(environment)'
+p100
+sI180
+S'    page = run_controller_in(request.controller, request.function, environment)'
+p101
+sI181
+S'    if isinstance(page, dict):'
+p102
+sI182
+S'        response._vars = page'
+p103
+sI183
+S'        response._view_environment.update(page)'
+p104
+sI184
+S'        page = run_view_in(response._view_environment)'
+p105
+sI185
+S''
+sI186
+S'    # logic to garbage collect after exec, not always, once every 100 requests'
+p106
+sI187
+S'    global requests'
+p107
+sI188
+S"    requests = ('requests' in globals()) and (requests + 1) % 100 or 0"
+p108
+ssg84
+S"(request=<Storage {'_vars': None, 'function': 'index', 'c...icace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\'}>, response=<Storage {'body': <cStringIO.StringO object at 0...0000000005B48898>, 'view': 'default/index.html'}>, session=<Storage {}>)"
+p109
+sg86
+S'serve_controller'
+p110
+sa(dp111
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\compileapp.py'
+p112
+sg63
+(dp113
+S'environment'
+p114
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p115
+sS'context'
+p116
+S'undefined'
+p117
+ssg73
+I724
+sg74
+(dp118
+I719
+S'                           rewrite.THREAD_LOCAL.routes.error_message % badv,'
+p119
+sI720
+S'                           web2py_error=badv)'
+p120
+sI721
+S'            # Parse template'
+p121
+sI722
+S'            scode = parse_template(view,'
+p122
+sI723
+S"                                   pjoin(folder, 'views'),"
+p123
+sI724
+S'                                   context=environment)'
+p124
+sI725
+S'            # Compile template'
+p125
+sI726
+S'            ccode = compile2(scode, filename)'
+p126
+sI727
+S'            layer = filename'
+p127
+sI728
+S'    restricted(ccode, environment, layer=layer, scode=scode)'
+p128
+ssg84
+S"(environment={'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...})"
+p129
+sg86
+S'run_view_in'
+p130
+sa(dp131
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\template.py'
+p132
+sg63
+(dp133
+S'builtinstr'
+p134
+S"<type 'str'>"
+p135
+sS'global TemplateParser'
+p136
+S"<class 'gluon.template.TemplateParser'>"
+p137
+sS'delimiters'
+p138
+S"('{{', '}}')"
+p139
+sS'context'
+p140
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p141
+sS'text'
+p142
+S'"{{extend \'layout.html\'}}\\r\\n\\r\\n{{block header}}\\r\\n  ...(request))}}\\r\\n\\r\\n{{#=session}}\\r\\n\\r\\n{{#=response}}\\r\\n"'
+p143
+sS'path'
+p144
+S"r'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\views'"
+p145
+sS'lexers'
+p146
+g17
+ssg73
+I792
+sg74
+(dp147
+I787
+S"            raise RestrictedError(filename, '', 'Unable to find the file')"
+p148
+sI788
+S'    else:'
+p149
+sI789
+S'        text = filename.read()'
+p150
+sI790
+S'    text = to_native(text)'
+p151
+sI791
+S'    # Use the file contents to get a parsed template and return it.'
+p152
+sI792
+S'    return str(TemplateParser(text, context=context, path=path, lexers=lexers, delimiters=delimiters))'
+p153
+sI793
+S''
+sI794
+S''
+sI795
+S'def get_parsed(text):'
+p154
+sI796
+S'    """'
+p155
+ssg84
+S"(filename='default/index.html', path=r'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\views', context={'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}, lexers={}, delimiters=('{{', '}}'))"
+p156
+sg86
+S'parse_template'
+p157
+sa(dp158
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\template.py'
+p159
+sg63
+(dp160
+S'text'
+p161
+S'"{{extend \'layout.html\'}}\\r\\n\\r\\n{{block header}}\\r\\n  ...(request))}}\\r\\n\\r\\n{{#=session}}\\r\\n\\r\\n{{#=response}}\\r\\n"'
+p162
+sS'self'
+p163
+S'<gluon.template.TemplateParser object>'
+p164
+sS'self.parse'
+p165
+S'<bound method TemplateParser.parse of <gluon.template.TemplateParser object>>'
+p166
+ssg73
+I314
+sg74
+(dp167
+I309
+S'        # This variable will hold a reference to every block'
+p168
+sI310
+S'        # that we come across in this template'
+p169
+sI311
+S'        self.blocks = {}'
+p170
+sI312
+S''
+sI313
+S'        # Begin parsing.'
+p171
+sI314
+S'        self.parse(text)'
+p172
+sI315
+S''
+sI316
+S'    def to_string(self):'
+p173
+sI317
+S'        """'
+p174
+sI318
+S'        Returns the parsed template with correct indentation.'
+p175
+ssg84
+S'(self=<gluon.template.TemplateParser object>, text="{{extend \'layout.html\'}}\\r\\n\\r\\n{{block header}}\\r\\n  ...(request))}}\\r\\n\\r\\n{{#=session}}\\r\\n\\r\\n{{#=response}}\\r\\n", name=\'ParserContainer\', context={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, path=r\'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\views\', writer=\'response.write\', lexers={}, delimiters=(\'{{\', \'}}\'), _super_nodes=[])'
+p176
+sg86
+g22
+sa(dp177
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\template.py'
+p178
+sg63
+(dp179
+S'self'
+p180
+S'<gluon.template.TemplateParser object>'
+p181
+sS'extend'
+p182
+S'"\'layout.html\'"'
+p183
+sS'self.extend'
+p184
+S'<bound method TemplateParser.extend of <gluon.template.TemplateParser object>>'
+p185
+ssg73
+I760
+sg74
+(dp186
+I755
+S'            # Sometimes I miss C-Style pointers... I want my asterisk...'
+p187
+sI756
+S'            self.child_super_nodes.remove(node)'
+p188
+sI757
+S''
+sI758
+S'        # If we need to extend a template.'
+p189
+sI759
+S'        if extend:'
+p190
+sI760
+S'            self.extend(extend)'
+p191
+sI761
+S''
+sI762
+S'# We need this for integration with gluon'
+p192
+sI763
+S''
+sI764
+S''
+ssg84
+S'(self=<gluon.template.TemplateParser object>, text="{{extend \'layout.html\'}}\\r\\n\\r\\n{{block header}}\\r\\n  ...(request))}}\\r\\n\\r\\n{{#=session}}\\r\\n\\r\\n{{#=response}}\\r\\n")'
+p193
+sg86
+S'parse'
+p194
+sa(dp195
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\template.py'
+p196
+sg63
+(dp197
+S'text'
+p198
+g117
+sS'self'
+p199
+S'<gluon.template.TemplateParser object>'
+p200
+sS'self._get_file_text'
+p201
+S'<bound method TemplateParser._get_file_text of <gluon.template.TemplateParser object>>'
+p202
+sS'filename'
+p203
+S'"\'layout.html\'"'
+p204
+sS'builtintuple'
+p205
+S"<type 'tuple'>"
+p206
+sS'self.delimiters'
+p207
+S"('{{', '}}')"
+p208
+ssg73
+I474
+sg74
+(dp209
+I469
+S'        """'
+p210
+sI470
+S'        Extends `filename`. Anything not declared in a block defined by the'
+p211
+sI471
+S'        parent will be placed in the parent templates `{{include}}` block.'
+p212
+sI472
+S'        """'
+p213
+sI473
+S'        # If no filename, create a dummy layout with only an {{include}}.'
+p214
+sI474
+S"        text = self._get_file_text(filename) or '%sinclude%s' % tuple(self.delimiters)"
+p215
+sI475
+S''
+sI476
+S'        # Create out nodes list to send to the parent'
+p216
+sI477
+S'        super_nodes = []'
+p217
+sI478
+S'        # We want to include any non-handled nodes.'
+p218
+ssg84
+S'(self=<gluon.template.TemplateParser object>, filename="\'layout.html\'")'
+p219
+sg86
+S'extend'
+p220
+sa(dp221
+g61
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\template.py'
+p222
+sg63
+(dp223
+S'builtineval'
+p224
+S'<built-in function eval>'
+p225
+sS'context'
+p226
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p227
+sS'filename'
+p228
+S'"\'layout.html\'"'
+p229
+ssg73
+I434
+sg74
+(dp230
+I429
+S'        if current and "response" not in context:'
+p231
+sI430
+S'            context["response"] = getattr(current, \'response\', None)'
+p232
+sI431
+S''
+sI432
+S'        # Get the filename; filename looks like ``"template.html"``.'
+p233
+sI433
+S'        # We need to eval to remove the quotes and get the string type.'
+p234
+sI434
+S'        filename = eval(filename, context)'
+p235
+sI435
+S''
+sI436
+S'        # Allow empty filename for conditional extend and include directives.'
+p236
+sI437
+S'        if not filename:'
+p237
+sI438
+S"            return ''"
+p238
+ssg84
+S'(self=<gluon.template.TemplateParser object>, filename="\'layout.html\'")'
+p239
+sg86
+S'_get_file_text'
+p240
+sasS'pyver'
+p241
+S'Python 2.7.13: c:\\python27\\python.exe (prefix: c:\\python27)'
+p242
+sS'session'
+p243
+g56
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp244
+sS'etype'
+p245
+S"<type 'exceptions.MemoryError'>"
+p246
+sS'date'
+p247
+S'Mon Aug 29 05:04:58 2022'
+p248
+sS'response'
+p249
+g56
+(S's&4\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x000000000340AF10&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_init</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51-16757f1d-0363-4528-9305-4f815e95b63b<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>Bienvenue</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap3_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a class="navbar-brand" href="https://unificace.cemtl.rtss.qc.ca" id="web2py-logo"><b>Unificace</b></a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Menu</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Accueil</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/default/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Actualisation des inventaires</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des absences</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_absence/absences_menu</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des ADs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_ads/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des inventaires</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_inventaires/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des \xc3\xa9crans d\'affichage</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_affichage/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de capacit\xc3\xa9 RH (projet)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_ressources/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des acc\xc3\xa8s g\xc3\xa9n\xc3\xa9rique</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_acces_generique/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Calendrier des changements</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_temps/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des courriels</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_courriels/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de fichiers</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_fichiers/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des factures (Telus)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_factures/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des importations vers Octopus</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_octopus/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion d\'impression</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_impression/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>L\'inventaire des serveurs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_serveurs/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de mappage (utilisateur au lecteur r\xc3\xa9seau)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/mappage_reseau/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de mappage (imprimante au client l\xc3\xa9ger)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_imprimantes/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion du proxy</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_proxy/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des PVS</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_pvs/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion RDM &amp; RDP</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_rdm_rdp/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des serveurs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_vms/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>R\xc3\xa9trofacturation du compte bilan</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_retrofacturation/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Calendrier financier</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_finance/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Nomenclature pour des alias</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_nomenclature/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Surveillance des alertes</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/alerts_monitoring/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Base de donn\xc3\xa9es</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/database/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des acc\xc3\xa8s</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_acces/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>\xc3\x80 propos</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/about/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Vilounha Phanalasy &lt;vphanalasy@ssss.gouv.qc.ca&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/index/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\sessions\\10.129.64.51-16757f1d-0363-4528-9305-4f815e95b63b</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>c0762cbf4baf7f9af97c051e7fcb8083</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51-16757f1d-0363-4528-9305-4f815e95b63b</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/index.html</div></td></tr></table></div>'
+tRp250
+sS'locals'
+p251
+(dp252
+S'self'
+p253
+S'<gluon.template.TemplateParser object>'
+p254
+sS'context'
+p255
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p256
+sS'filename'
+p257
+S'"\'layout.html\'"'
+p258
+sssS'traceback'
+p259
+S'Traceback (most recent call last):\n  File ".\\gluon\\main.py", line 445, in wsgibase\n    serve_controller(request, response, session)\n  File ".\\gluon\\main.py", line 184, in serve_controller\n    page = run_view_in(response._view_environment)\n  File ".\\gluon\\compileapp.py", line 724, in run_view_in\n    context=environment)\n  File ".\\gluon\\template.py", line 792, in parse_template\n    return str(TemplateParser(text, context=context, path=path, lexers=lexers, delimiters=delimiters))\n  File ".\\gluon\\template.py", line 314, in __init__\n    self.parse(text)\n  File ".\\gluon\\template.py", line 760, in parse\n    self.extend(extend)\n  File ".\\gluon\\template.py", line 474, in extend\n    text = self._get_file_text(filename) or \'%sinclude%s\' % tuple(self.delimiters)\n  File ".\\gluon\\template.py", line 434, in _get_file_text\n    filename = eval(filename, context)\nMemoryError\n'
+p260
+s.

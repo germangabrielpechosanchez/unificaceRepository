@@ -1,0 +1,124 @@
+{{extend 'layout.html'}}
+<head>
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    text-align: left;
+}
+
+tr{
+    text-align: left;
+    padding: 0px;
+    border-bottom:1pt solid #D7DAE9;
+}
+
+
+td {
+    text-align: left;
+    padding: 0px;
+    border: 0px solid white;
+}
+
+.red_class {
+    color: #FF475F;
+
+} 
+
+.head1{
+    font-size:150%;
+    font-weight:bold;
+    background-color: #91D5FD;
+	
+}
+.head2{
+    font-size:120%;
+    font-weight:bold;
+    background-color: #80F0FF;
+
+}
+.head3{
+    font-size:120%;
+    font-weight:bold;
+    background-color: #FDE6E6;
+    display: none
+
+}
+
+.date_group1{
+    background-color: #E9F5FB;
+}
+.date_group2{
+    background-color: #EDFAFC;
+}
+.date_group3{
+    background-color:#FFF7F7;
+}
+
+.details1{
+    background-color: #E7F2F8;
+}
+.details2{
+    background-color: #F1FBFC;
+}
+.details3{
+    /*background-color:#FCFCFC;*/
+
+    background-color:#FCFCFC;
+    display: none
+
+}
+
+.button_command{
+    font-size:120%;
+    width:100%;
+    border-radius:10px;
+}
+.button_calendar{
+    font-size:80%;
+    width:22.2em;
+    border-radius:5px;
+}
+
+.my_label{
+    color:black;
+    font-size:100%;
+    padding: 4px;
+    width:100%;
+    border:1px solid white;
+    border-radius:5px;
+}
+
+.class_input{
+    color:black;
+    font-size:120%;
+    /*font color='blue';*/
+    width:100%;
+    border:1px solid black;
+    border-radius:5px;
+}
+#input{
+    color:black;
+    font-size:120%;
+    font color='blue'
+    width:100%;
+    border:1px solid black;
+    border-radius:5px;
+}
+
+#tr:nth-child(even){background-color: #f2f2f2}
+#tr:nth-child(odd){background-color: #8C9EC5;}
+tr:hover{border-bottom: 2px solid #000000}
+          
+</style>
+</head>
+
+{{=XML(form)}}         
+{{=XML(grid)}}
+
+<div>
+{{#=form}}
+{{#=grid}}
+</div>

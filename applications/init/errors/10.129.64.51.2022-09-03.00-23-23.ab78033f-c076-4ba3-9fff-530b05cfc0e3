@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.MemoryError'> "
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 00000000029B57B0, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 820, in <module>\n    Field(\'Total\',label=T("Total")),#28\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 586, in define_table\n    table = self.lazy_define_table(tablename, *fields, **args)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 598, in lazy_define_table\n    table = table_class(self, tablename, *fields, **args)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 339, in __init__\n    reserved = dir(Table) + [\'fields\']\nMemoryError\n'
+p11
+s.

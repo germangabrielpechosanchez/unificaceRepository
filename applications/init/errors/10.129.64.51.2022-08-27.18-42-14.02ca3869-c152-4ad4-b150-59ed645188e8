@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.MemoryError'> "
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 000000000223E730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 331, in <module>\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 1637, in __init__\nMemoryError\n'
+p11
+s.

@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.MemoryError'> "
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0000000002A4F7B0, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 799, in <module>\n    Field(\'Total_Charges_and_Adjustments\',\'double\',label=T("Total")),#55\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 586, in define_table\n    table = self.lazy_define_table(tablename, *fields, **args)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 620, in lazy_define_table\n    polymodel=polymodel)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 797, in create_table\n    return self.migrator.create_table(*args, **kwargs)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 295, in create_table\n    sql_fields_old = pickle.load(tfile)\n  File "c:\\python27\\lib\\pickle.py", line 1384, in load\n    return Unpickler(file).load()\n  File "c:\\python27\\lib\\pickle.py", line 864, in load\n    dispatch[key](self)\n  File "c:\\python27\\lib\\pickle.py", line 1171, in load_put\n    self.memo[self.readline()[:-1]] = self.stack[-1]\nMemoryError\n'
+p11
+s.

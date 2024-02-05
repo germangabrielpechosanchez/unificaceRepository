@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S'<class \'gluon.contrib.pypyodbc.ProgrammingError\'> (u\'42S01\', u"[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named \'domains\' in the database.")'
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0000000002D1F7B0, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 392, in <module>\n    format=\'%(fqdn)s\',\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 586, in define_table\n    table = self.lazy_define_table(tablename, *fields, **args)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 620, in lazy_define_table\n    polymodel=polymodel)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 797, in create_table\n    return self.migrator.create_table(*args, **kwargs)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 277, in create_table\n    self.adapter.create_sequence_and_triggers(query, table)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 880, in create_sequence_and_triggers\n    self.execute(query)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\__init__.py", line 67, in wrap\n    return f(*args, **kwargs)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 412, in execute\n    rv = self.cursor.execute(command, *args[1:], **kwargs)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 1605, in execute\n    self.execdirect(query_string)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 1631, in execdirect\n    check_success(self, ret)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 986, in check_success\n    ctrl_err(SQL_HANDLE_STMT, ODBC_obj.stmt_h, ret, ODBC_obj.ansi)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 954, in ctrl_err\n    raise ProgrammingError(state,err_text)\nProgrammingError: (u\'42S01\', u"[42S01] [Microsoft][ODBC SQL Server Driver][SQL Server]There is already an object named \'domains\' in the database.")\n'
+p11
+s.

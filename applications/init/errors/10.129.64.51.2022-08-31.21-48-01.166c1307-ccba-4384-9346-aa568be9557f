@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.IOError'> [Errno 12] Not enough space"
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 000000000245E730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 911, in <module>\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 586, in define_table\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\base.py", line 620, in lazy_define_table\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 797, in create_table\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\migrator.py", line 295, in create_table\n  File "c:\\python27\\lib\\pickle.py", line 1384, in load\n  File "c:\\python27\\lib\\pickle.py", line 863, in load\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\contrib\\portalocker.py", line 194, in read\n    return self.file.read() if size is None else self.file.read(size)\nIOError: [Errno 12] Not enough space\n'
+p11
+s.

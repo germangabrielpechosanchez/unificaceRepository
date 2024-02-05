@@ -1,0 +1,19 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+sS'traceback'
+p8
+S'Traceback (most recent call last):\n  File ".\\gluon\\main.py", line 445, in wsgibase\n    serve_controller(request, response, session)\n  File ".\\gluon\\main.py", line 165, in serve_controller\n    environment = build_environment(request, response, session)\n  File ".\\gluon\\compileapp.py", line 411, in build_environment\n    environment = dict(_base_environment_)\nMemoryError\n'
+p9
+s.

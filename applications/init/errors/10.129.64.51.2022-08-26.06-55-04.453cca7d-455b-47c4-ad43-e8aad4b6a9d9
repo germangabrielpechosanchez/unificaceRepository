@@ -1,0 +1,114 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+S'exception'
+p8
+(dp9
+S'__getslice__'
+p10
+S"<method-wrapper '__getslice__' of exceptions.MemoryError object>"
+p11
+sS'__str__'
+p12
+S"<method-wrapper '__str__' of exceptions.MemoryError object>"
+p13
+sS'__reduce__'
+p14
+S'<built-in method __reduce__ of exceptions.MemoryError object>'
+p15
+sS'__dict__'
+p16
+S'{}'
+p17
+sS'message'
+p18
+S"''"
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.MemoryError object>'
+p21
+sS'__init__'
+p22
+S"<method-wrapper '__init__' of exceptions.MemoryError object>"
+p23
+sS'__setattr__'
+p24
+S"<method-wrapper '__setattr__' of exceptions.MemoryError object>"
+p25
+sS'__reduce_ex__'
+p26
+S'<built-in method __reduce_ex__ of exceptions.MemoryError object>'
+p27
+sS'__new__'
+p28
+S'<built-in method __new__ of type object>'
+p29
+sS'__format__'
+p30
+S'<built-in method __format__ of exceptions.MemoryError object>'
+p31
+sS'__class__'
+p32
+S"<type 'exceptions.MemoryError'>"
+p33
+sS'__doc__'
+p34
+S"'Out of memory.'"
+p35
+sS'__getitem__'
+p36
+S"<method-wrapper '__getitem__' of exceptions.MemoryError object>"
+p37
+sS'__setstate__'
+p38
+S'<built-in method __setstate__ of exceptions.MemoryError object>'
+p39
+sS'__getattribute__'
+p40
+S"<method-wrapper '__getattribute__' of exceptions.MemoryError object>"
+p41
+sS'args'
+p42
+S'()'
+p43
+sS'__subclasshook__'
+p44
+S'<built-in method __subclasshook__ of type object>'
+p45
+sS'__unicode__'
+p46
+S'<built-in method __unicode__ of exceptions.MemoryError object>'
+p47
+sS'__delattr__'
+p48
+S"<method-wrapper '__delattr__' of exceptions.MemoryError object>"
+p49
+sS'__repr__'
+p50
+S"<method-wrapper '__repr__' of exceptions.MemoryError object>"
+p51
+sS'__hash__'
+p52
+S"<method-wrapper '__hash__' of exceptions.MemoryError object>"
+p53
+ssS'evalue'
+p54
+S''
+sS'request'
+p55
+cgluon.html
+XML_unpickle
+p56
+(

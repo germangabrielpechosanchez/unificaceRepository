@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.MemoryError'> "
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0000000002261730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 365, in <module>\n    this_utg=db(db.auth_user.username==utg_user_id).select(db.auth_user.id)#if user already exist in auth_user table\nMemoryError\n'
+p11
+s.

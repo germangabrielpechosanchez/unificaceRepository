@@ -1,0 +1,617 @@
+(dp1
+S'output'
+p2
+S"<class 'gluon.contrib.pypyodbc.DataError'> (u'22001', u'[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.')"
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers/actualisation_inventaires.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0000000004DDEBB0, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers/actualisation_inventaires.py", line 12>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__module__'
+p12
+S"'gluon.contrib.pypyodbc'"
+p13
+sS'__getslice__'
+p14
+S"<method-wrapper '__getslice__' of DataError object>"
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of DataError object>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of DataError object>'
+p19
+sS'__dict__'
+p20
+S"{'value': (u'22001', u'[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.')}"
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of DataError object>'
+p23
+sS'__weakref__'
+p24
+S'None'
+p25
+sS'message'
+p26
+S"''"
+p27
+sS'__init__'
+p28
+S"<bound method DataError.__init__ of DataError(u'...rver]String or binary data would be truncated.')>"
+p29
+sS'__setattr__'
+p30
+S"<method-wrapper '__setattr__' of DataError object>"
+p31
+sS'__reduce_ex__'
+p32
+S'<built-in method __reduce_ex__ of DataError object>'
+p33
+sS'__new__'
+p34
+S'<built-in method __new__ of type object>'
+p35
+sS'__format__'
+p36
+S'<built-in method __format__ of DataError object>'
+p37
+sS'__class__'
+p38
+S"<class 'gluon.contrib.pypyodbc.DataError'>"
+p39
+sS'__doc__'
+p40
+S'None'
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of DataError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of DataError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of DataError object>"
+p47
+sS'args'
+p48
+S"(u'22001', u'[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.')"
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of DataError object>'
+p53
+sS'value'
+p54
+S"(u'22001', u'[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.')"
+p55
+sS'__delattr__'
+p56
+S"<method-wrapper '__delattr__' of DataError object>"
+p57
+sS'__repr__'
+p58
+S"<method-wrapper '__repr__' of DataError object>"
+p59
+sS'__hash__'
+p60
+S"<method-wrapper '__hash__' of DataError object>"
+p61
+ssS'evalue'
+p62
+S"(u'22001', u'[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.')"
+p63
+sS'request'
+p64
+cgluon.html
+XML_unpickle
+p65
+(S's\x15\x85\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>actualisation_inventaires</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_init</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">APPL_MD_PATH</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2/ROOT</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APPL_PHYSICAL_PATH</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APP_POOL_CONFIG</td><td style="vertical-align:top;">:</td><td><div>C:\\inetpub\\temp\\apppools\\unificace\\unificace.config</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APP_POOL_ID</td><td style="vertical-align:top;">:</td><td><div>unificace</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_PASSWORD</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_TYPE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_COOKIE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_FLAGS</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_ISSUER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_SERIALNUMBER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_SUBJECT</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>493</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryFf8CX8znDPEMkNpy</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">DOCUMENT_ROOT</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">GATEWAY_INTERFACE</td><td style="vertical-align:top;">:</td><td><div>CGI/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS</td><td style="vertical-align:top;">:</td><td><div>on</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_KEYSIZE</td><td style="vertical-align:top;">:</td><td><div>256</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SECRETKEYSIZE</td><td style="vertical-align:top;">:</td><td><div>2048</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SERVER_ISSUER</td><td style="vertical-align:top;">:</td><td><div>C=US, O=&quot;Entrust, Inc.&quot;, OU=See www.entrust.net/legal-terms, OU=&quot;(c) 2012 Entrust, Inc. - for authorized use only&quot;, CN=Entrust Certification Authority - L1K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SERVER_SUBJECT</td><td style="vertical-align:top;">:</td><td><div>C=CA, S=Quebec, L=Quebec, O=Minist\xe8re de la sant\xe9 et des services sociaux du Qu\xe9bec, CN=*.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CACHE_CONTROL</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>493</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryFf8CX8znDPEMkNpy</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_init=10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ORIGIN</td><td style="vertical-align:top;">:</td><td><div>https://s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>https://s03vwpr00031.cemtl.rtss.qc.ca/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_CH_UA</td><td style="vertical-align:top;">:</td><td><div>&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_CH_UA_MOBILE</td><td style="vertical-align:top;">:</td><td><div>?0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_CH_UA_PLATFORM</td><td style="vertical-align:top;">:</td><td><div>&quot;Windows&quot;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_FETCH_DEST</td><td style="vertical-align:top;">:</td><td><div>document</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_FETCH_MODE</td><td style="vertical-align:top;">:</td><td><div>navigate</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_FETCH_SITE</td><td style="vertical-align:top;">:</td><td><div>same-origin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_FETCH_USER</td><td style="vertical-align:top;">:</td><td><div>?1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_ORIGINAL_URL</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">IIS_UrlRewriteModule</td><td style="vertical-align:top;">:</td><td><div>7.1.1980.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">IIS_WasUrlRewritten</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_ID</td><td style="vertical-align:top;">:</td><td><div>2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_META_PATH</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_NAME</td><td style="vertical-align:top;">:</td><td><div>UNIFICACE</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">LOCAL_ADDR</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">LOGON_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_TRANSLATED</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py\\init\\actualisation_inventaires\\cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_HOST</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>57155</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_URI</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_FILENAME</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT_SECURE</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Microsoft-IIS/8.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">UNENCODED_URL</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">URL</td><td style="vertical-align:top;">:</td><td><div>/handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_pool_config</td><td style="vertical-align:top;">:</td><td><div>C:\\inetpub\\temp\\apppools\\unificace\\unificace.config</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_pool_id</td><td style="vertical-align:top;">:</td><td><div>unificace</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">appl_md_path</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2/ROOT</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">appl_physical_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_password</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_type</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_cookie</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_flags</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_issuer</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_serialnumber</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_subject</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>493</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryFf8CX8znDPEMkNpy</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">document_root</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gateway_interface</td><td style="vertical-align:top;">:</td><td><div>CGI/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>fr,fr-FR;q=0.9,en-US;q=0.8,en;q=0.7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cache_control</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>493</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryFf8CX8znDPEMkNpy</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_init=10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_origin</td><td style="vertical-align:top;">:</td><td><div>https://s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>https://s03vwpr00031.cemtl.rtss.qc.ca/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_ch_ua</td><td style="vertical-align:top;">:</td><td><div>&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_ch_ua_mobile</td><td style="vertical-align:top;">:</td><td><div>?0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_ch_ua_platform</td><td style="vertical-align:top;">:</td><td><div>&quot;Windows&quot;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_fetch_dest</td><td style="vertical-align:top;">:</td><td><div>document</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_fetch_mode</td><td style="vertical-align:top;">:</td><td><div>navigate</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_fetch_site</td><td style="vertical-align:top;">:</td><td><div>same-origin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_fetch_user</td><td style="vertical-align:top;">:</td><td><div>?1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https</td><td style="vertical-align:top;">:</td><td><div>on</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_keysize</td><td style="vertical-align:top;">:</td><td><div>256</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_secretkeysize</td><td style="vertical-align:top;">:</td><td><div>2048</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_server_issuer</td><td style="vertical-align:top;">:</td><td><div>C=US, O=&quot;Entrust, Inc.&quot;, OU=See www.entrust.net/legal-terms, OU=&quot;(c) 2012 Entrust, Inc. - for authorized use only&quot;, CN=Entrust Certification Authority - L1K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_server_subject</td><td style="vertical-align:top;">:</td><td><div>C=CA, S=Quebec, L=Quebec, O=Minist\xe8re de la sant\xe9 et des services sociaux du Qu\xe9bec, CN=*.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">iis_urlrewritemodule</td><td style="vertical-align:top;">:</td><td><div>7.1.1980.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">iis_wasurlrewritten</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_id</td><td style="vertical-align:top;">:</td><td><div>2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_meta_path</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_name</td><td style="vertical-align:top;">:</td><td><div>UNIFICACE</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_addr</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>S03VWPR00031</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>10.129.65.41</div></td></tr><tr><td><div>s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>S03VWPR00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logon_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_translated</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py\\init\\actualisation_inventaires\\cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_host</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>57155</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port_secure</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Microsoft-IIS/8.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">unencoded_url</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wfastcgi.http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wfastcgi_http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x00000000055BE458&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringI object at 0x0000000002989F10&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.path_info</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>https</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x00000000055BE458&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringI object at 0x0000000002989F10&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_path_info</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>https</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>S03VWPR00031</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>10.129.65.41</div></td></tr><tr><td><div>s03vwpr00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>S03VWPR00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2021, 11, 29, 14, 35, 45, 102000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2021, 11, 29, 19, 35, 45, 102000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x00000000055BEB00&gt;</div></td></tr></table></div>'
+tRp66
+sS'frames'
+p67
+(lp68
+(dp69
+S'file'
+p70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\restricted.py'
+p71
+sS'dump'
+p72
+(dp73
+S'environment'
+p74
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p75
+sS'ccode'
+p76
+S'<code object <module> at 0000000004DDEBB0, file ...ntrollers/actualisation_inventaires.py", line 12>'
+p77
+ssS'lnum'
+p78
+I219
+sS'lines'
+p79
+(dp80
+I214
+S'    if environment is None:'
+p81
+sI215
+S'        environment = {}'
+p82
+sI216
+S"    environment['__file__'] = layer"
+p83
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p84
+sI218
+S'    try:'
+p85
+sI219
+S'        exec(ccode, environment)'
+p86
+sI220
+S'    except HTTP:'
+p87
+sI221
+S'        raise'
+p88
+sI222
+S'    except RestrictedError:'
+p89
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p90
+ssS'call'
+p91
+S'(ccode=<code object <module> at 0000000004DDEBB0, file ...ntrollers/actualisation_inventaires.py", line 12>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers/actualisation_inventaires.py\', scode=<code object <module> at 0000000004DDEBB0, file ...ntrollers/actualisation_inventaires.py", line 12>)'
+p92
+sS'func'
+p93
+S'restricted'
+p94
+sa(dp95
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers\\actualisation_inventaires.py'
+p96
+sg72
+(dp97
+sg78
+I629
+sg79
+(dp98
+I618
+S''
+sI619
+S''
+sI620
+S'def call():'
+p99
+sI621
+S'    """'
+p100
+sI622
+S'    exposes services. for example:'
+p101
+sI623
+S'    http://..../[app]/default/call/jsonrpc'
+p102
+sI624
+S'    decorate with @services.jsonrpc the functions to expose'
+p103
+sI625
+S'    supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv'
+p104
+sI626
+S'    """'
+p105
+sI627
+S'    return service()'
+p106
+ssg91
+S'()'
+p107
+sg93
+S'<module>'
+p108
+sa(dp109
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\globals.py'
+p110
+sg72
+(dp111
+S'self'
+p112
+S'undefined'
+p113
+sS'f'
+S'<function cis_deactivation>'
+p114
+ssg78
+I419
+sg79
+(dp115
+I416
+S'        self.menu = []             # used by the default view layout'
+p116
+sI417
+S'        self.files = []            # used by web2py_ajax.html'
+p117
+sI418
+S'        self._vars = None'
+p118
+sI419
+S'        self._caller = lambda f: f()'
+p119
+sI420
+S'        self._view_environment = None'
+p120
+sI421
+S'        self._custom_commit = None'
+p121
+sI422
+S'        self._custom_rollback = None'
+p122
+sI423
+S"        self.generic_patterns = ['*']"
+p123
+sI414
+S"        self.flash = ''            # used by the default view layout"
+p124
+sI415
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p125
+ssg91
+S'(f=<function cis_deactivation>)'
+p126
+sg93
+S'<lambda>'
+p127
+sa(dp128
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\tools.py'
+p129
+sg72
+(dp130
+S'action'
+p131
+S'<function cis_deactivation>'
+p132
+sS'a'
+S'()'
+p133
+sS'b'
+S'{}'
+p134
+ssg78
+I3982
+sg79
+(dp135
+I3977
+S'                    flag = condition'
+p136
+sI3978
+S'                if not flag:'
+p137
+sI3979
+S'                    current.session.flash = self.messages.access_denied'
+p138
+sI3980
+S'                    return call_or_redirect('
+p139
+sI3981
+S'                        self.settings.on_failed_authorization)'
+p140
+sI3982
+S'                return action(*a, **b)'
+p141
+sI3983
+S'            f.__doc__ = action.__doc__'
+p142
+sI3984
+S'            f.__name__ = action.__name__'
+p143
+sI3985
+S'            f.__dict__.update(action.__dict__)'
+p144
+sI3986
+S'            return f'
+p145
+ssg91
+S'(*a=(), **b={})'
+p146
+sg93
+S'f'
+sa(dp147
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers\\actualisation_inventaires.py'
+p148
+sg72
+(dp149
+S'global call_background_task'
+p150
+S'<function call_background_task>'
+p151
+sS'response_data'
+p152
+g113
+ssg78
+I184
+sg79
+(dp153
+I179
+S"                    command='actualisation_inventaires_desactivation',"
+p154
+sI180
+S'                    cis=cis'
+p155
+sI181
+S'                )'
+p156
+sI182
+S'                import json'
+p157
+sI183
+S'                #desactivation'
+p158
+sI184
+S'                response_data=call_background_task()'
+p159
+sI185
+S'                response_dict=json.loads(response_data.response)'
+p160
+sI186
+S"                session.msg=response_dict['cis']"
+p161
+sI187
+S"                #[u'267;AD:desactive|VCENTER:PoweredOff|', u'268;AD:desactive|'] \xc3\x97"
+p162
+sI188
+S"                for r in response_dict['cis']:"
+p163
+ssg91
+S'()'
+p164
+sg93
+S'cis_deactivation'
+p165
+sa(dp166
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers\\actualisation_inventaires.py'
+p167
+sg72
+(dp168
+S'global response'
+p169
+S"<Storage {'body': <cStringIO.StringO object at 0...ctualisation_inventaires/cis_deactivation.html'}>"
+p170
+ssg78
+I347
+sg79
+(dp171
+I342
+S'        publish_id=publish_id,'
+p172
+sI343
+S"        subscribe_id='',"
+p173
+sI344
+S"        app='actualisation_inventaires',"
+p174
+sI345
+S"        status='new',"
+p175
+sI346
+S'        command=json.dumps(session.data),'
+p176
+sI347
+S"        response='',"
+p177
+sI348
+S'        )'
+p178
+sI349
+S'    db.commit()'
+p179
+sI350
+S'    qry=(db.app2app.publish_id==publish_id)&(db.app2app.status=="donne")'
+p180
+sI351
+S'    waiting=True'
+p181
+ssg91
+S'()'
+p182
+sg93
+S'call_background_task'
+p183
+sa(dp184
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py'
+p185
+sg72
+(dp186
+S'self'
+p187
+S'<Table app2app (id, publish_id, subscribe_id, app, status, command, response)>'
+p188
+sS'ret'
+p189
+g113
+sS'row.op_values'
+p190
+S'<bound method OpRow.op_values of <OpRow {\'status...n_inventaires_desactivation"}\', \'response\': \'\'}>>'
+p191
+sS'self._db._adapter'
+p192
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p193
+sS'self._db._adapter.insert'
+p194
+S'<bound method MSSQL4.insert of <pydal.adapters.mssql.MSSQL4 object>>'
+p195
+sS'self._db'
+p196
+S'<DAL uri="mssql4:******@S03VWPR00004.cemtl.rtss.qc.ca/unificace">'
+p197
+sS'row'
+p198
+S'<OpRow {\'status\': \'new\', \'publish_id\': \'17a500f8...on_inventaires_desactivation"}\', \'response\': \'\'}>'
+p199
+ssg78
+I753
+sg79
+(dp200
+I748
+S''
+sI749
+S'    def insert(self, **fields):'
+p201
+sI750
+S'        row = self._fields_and_values_for_insert(fields)'
+p202
+sI751
+S'        if any(f(row) for f in self._before_insert):'
+p203
+sI752
+S'            return 0'
+p204
+sI753
+S'        ret = self._db._adapter.insert(self, row.op_values())'
+p205
+sI754
+S'        if ret and self._after_insert:'
+p206
+sI755
+S'            for f in self._after_insert:'
+p207
+sI756
+S'                f(row, ret)'
+p208
+sI757
+S'        return ret'
+p209
+ssg91
+S'(self=<Table app2app (id, publish_id, subscribe_id, app, status, command, response)>, **fields={\'app\': \'actualisation_inventaires\', \'command\': \'{"cis": [[6789, "AIRWPRD01@lteas.rtss.qc.ca"], [...mand": "actualisation_inventaires_desactivation"}\', \'publish_id\': \'17a500f88f404eaa81ed5d37b60d4035\', \'response\': \'\', \'status\': \'new\', \'subscribe_id\': \'\'})'
+p210
+sg93
+S'insert'
+p211
+sa(dp212
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p213
+sg72
+(dp214
+S'e'
+S"DataError(u'22001', u'[22001] [Microsoft][ODBC S...erver]String or binary data would be truncated.')"
+p215
+ssg78
+I486
+sg79
+(dp216
+I481
+S'            self.execute(query)'
+p217
+sI482
+S'        except:'
+p218
+sI483
+S'            e = sys.exc_info()[1]'
+p219
+sI484
+S"            if hasattr(table, '_on_insert_error'):"
+p220
+sI485
+S'                return table._on_insert_error(table, fields, e)'
+p221
+sI486
+S'            raise e'
+p222
+sI487
+S"        if hasattr(table, '_primarykey'):"
+p223
+sI488
+S'            pkdict = dict(['
+p224
+sI489
+S'                (k[0].name, k[1]) for k in fields'
+p225
+sI490
+S'                if k[0].name in table._primarykey])'
+p226
+ssg91
+S'(self=<pydal.adapters.mssql.MSSQL4 object>, table=<Table app2app (id, publish_id, subscribe_id, app, status, command, response)>, fields=[(<pydal.objects.Field object>, \'new\'), (<pydal.objects.Field object>, \'17a500f88f404eaa81ed5d37b60d4035\'), (<pydal.objects.Field object>, \'actualisation_inventaires\'), (<pydal.objects.Field object>, \'\'), (<pydal.objects.Field object>, \'{"cis": [[6789, "AIRWPRD01@lteas.rtss.qc.ca"], [...mand": "actualisation_inventaires_desactivation"}\'), (<pydal.objects.Field object>, \'\')])'
+p227
+sg93
+g211
+sasS'pyver'
+p228
+S'Python 2.7.13: c:\\python27\\python.exe (prefix: c:\\python27)'
+p229
+sS'session'
+p230
+g65
+(S'sM$\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">auth</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">expiration</td><td style="vertical-align:top;">:</td><td><div>3600</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">hmac_key</td><td style="vertical-align:top;">:</td><td><div>28717e0b-56c8-413b-a632-d9dd57cd300b</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_visit</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2021, 11, 29, 14, 35, 35, 527000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remember_me</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">email</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">first_name</td><td style="vertical-align:top;">:</td><td><div>t1-ameal8300</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">id</td><td style="vertical-align:top;">:</td><td><div>4335L</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_id</td><td style="vertical-align:top;">:</td><td><div>t1-ameal8300</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">reset_password_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">username</td><td style="vertical-align:top;">:</td><td><div>t1-ameal8300</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user_groups</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">4</td><td style="vertical-align:top;">:</td><td><div>gestion_ads</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">15</td><td style="vertical-align:top;">:</td><td><div>gestion_serveurs_edit_add</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">1036</td><td style="vertical-align:top;">:</td><td><div>gestion_vms</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">1046</td><td style="vertical-align:top;">:</td><td><div>actualisation_inventaires</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">1047</td><td style="vertical-align:top;">:</td><td><div>actualisation_inventaires_pcs</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">data</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">cis</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>6789L</div></td></tr><tr><td><div>AIRWPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6790L</div></td></tr><tr><td><div>DFSPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6791L</div></td></tr><tr><td><div>KMSPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6792L</div></td></tr><tr><td><div>LTPC9998@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6793L</div></td></tr><tr><td><div>LTPC9999@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6794L</div></td></tr><tr><td><div>LTSRV116@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6795L</div></td></tr><tr><td><div>LTSRV125@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6796L</div></td></tr><tr><td><div>LTSRV126@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6797L</div></td></tr><tr><td><div>LTSRV219@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6798L</div></td></tr><tr><td><div>LTSRV220@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6799L</div></td></tr><tr><td><div>LTSRV230@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6800L</div></td></tr><tr><td><div>LTSRV303@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6801L</div></td></tr><tr><td><div>LTSRV307@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6802L</div></td></tr><tr><td><div>MGM-SQL@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6803L</div></td></tr><tr><td><div>PASSPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6804L</div></td></tr><tr><td><div>PASSPRD02@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6805L</div></td></tr><tr><td><div>PC_ADMT_LTEAS_1@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6806L</div></td></tr><tr><td><div>S02VWPR00003@cemtl.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6807L</div></td></tr><tr><td><div>SQLPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6808L</div></td></tr><tr><td><div>TMOFPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6809L</div></td></tr><tr><td><div>AIRWPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6810L</div></td></tr><tr><td><div>DFSPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6811L</div></td></tr><tr><td><div>KMSPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6812L</div></td></tr><tr><td><div>LTPC9998@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6813L</div></td></tr><tr><td><div>LTPC9999@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6814L</div></td></tr><tr><td><div>LTSRV116@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6815L</div></td></tr><tr><td><div>LTSRV118@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6816L</div></td></tr><tr><td><div>LTSRV125@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6817L</div></td></tr><tr><td><div>LTSRV126@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6818L</div></td></tr><tr><td><div>LTSRV219@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6819L</div></td></tr><tr><td><div>LTSRV220@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6820L</div></td></tr><tr><td><div>LTSRV227@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6821L</div></td></tr><tr><td><div>LTSRV230@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6822L</div></td></tr><tr><td><div>LTSRV232@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6823L</div></td></tr><tr><td><div>LTSRV303@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6824L</div></td></tr><tr><td><div>LTSRV307@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6825L</div></td></tr><tr><td><div>MGM-SQL@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6826L</div></td></tr><tr><td><div>PASSPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6827L</div></td></tr><tr><td><div>PASSPRD02@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6828L</div></td></tr><tr><td><div>PC_ADMT_LTEAS_1@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6829L</div></td></tr><tr><td><div>S02VWPR00003@cemtl.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6830L</div></td></tr><tr><td><div>SQLPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>6831L</div></td></tr><tr><td><div>TMOFPRD01@lteas.rtss.qc.ca</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">command</td><td style="vertical-align:top;">:</td><td><div>actualisation_inventaires_desactivation</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">msg</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr></table></div>'
+tRp231
+sS'etype'
+p232
+S"<class 'gluon.contrib.pypyodbc.DataError'>"
+p233
+sS'date'
+p234
+S'Mon Nov 29 14:35:45 2021'
+p235
+sS'response'
+p236
+g65
+(S's\xf1>\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x000000000526B1B8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_init</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap3_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a class="navbar-brand" href="https://unificace.cemtl.rtss.qc.ca" id="web2py-logo"><b>Unificace</b></a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Menu</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Accueil</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/default/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Actualisation des inventaires</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des absences</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_absence/absences_menu</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des ADs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_ads/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des inventaires</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_inventaires/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des \xc3\xa9crans d\'affichage</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_affichage/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de capacit\xc3\xa9 RH (projet)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_ressources/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des acc\xc3\xa8s g\xc3\xa9n\xc3\xa9rique</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_acces_generique/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Calendrier des changements</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_temps/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des courriels</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_courriels/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de fichiers</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_fichiers/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des factures (Telus)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_factures/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des importations vers Octopus</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_octopus/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion d\'impression</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_impression/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>L\'inventaire des serveurs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_serveurs/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de mappage (utilisateur au lecteur r\xc3\xa9seau)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/mappage_reseau/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion de mappage (imprimante au client l\xc3\xa9ger)</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_imprimantes/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion du proxy</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_proxy/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des PVS</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_pvs/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion RDM &amp; RDP</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_rdm_rdp/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des serveurs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_vms/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>R\xc3\xa9trofacturation du compte bilan</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_retrofacturation/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Calendrier financier</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_finance/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Nomenclature pour des alias</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_nomenclature/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Surveillance des alertes</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/alerts_monitoring/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Base de donn\xc3\xa9es</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/database/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des acc\xc3\xa8s</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/gestion_acces/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>\xc3\x80 propos</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/about/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Actualisation des inventaires</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Guide d\'utilisation du module</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/index</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Pr\xc3\xa9paration la liste des CIs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/cis_listing</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>D\xc3\xa9sactivation des CIs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Entrep\xc3\xb4t des fichiers Octopus</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/octopus_files</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Historique</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/all_items</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>R\xc3\xa9activation des CIs - Retour en arri\xc3\xa8re</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/cis_reactivation</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Tables de configuration</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/tables</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Gestion des acc\xc3\xa8s au module</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/module_access_create</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>D\xc3\xa9sactivation des CIs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/init/actualisation_inventaires/cis_deactivation</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Vilounha Phanalasy &lt;vphanalasy@ssss.gouv.qc.ca&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^actualisation_inventaires/\\w+\\.py$</div></td></tr><tr><td><div>^actualisation_inventaires/cis_deactivation/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\sessions\\\\068\\\\07a\\\\10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886&#x27;, mode &#x27;rb+&#x27; at 0x00000000055AE420&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\sessions\\10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>f72ec5d554e4b5f4072915a519898766</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>10.49.24.63-a8c5b0d6-d31a-44a9-ac4c-28946cdae886</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>actualisation_inventaires/cis_deactivation.html</div></td></tr></table></div>'
+tRp237
+sS'locals'
+p238
+(dp239
+S'query'
+p240
+S'\'INSERT INTO "app2app"("status","publish_id","app... "actualisation_inventaires_desactivation"}\\\',\\\'\\\');\''
+p241
+sS'self'
+p242
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p243
+sS'e'
+S"DataError(u'22001', u'[22001] [Microsoft][ODBC S...erver]String or binary data would be truncated.')"
+p244
+sS'fields'
+p245
+S'[(<pydal.objects.Field object>, \'new\'), (<pydal.objects.Field object>, \'17a500f88f404eaa81ed5d37b60d4035\'), (<pydal.objects.Field object>, \'actualisation_inventaires\'), (<pydal.objects.Field object>, \'\'), (<pydal.objects.Field object>, \'{"cis": [[6789, "AIRWPRD01@lteas.rtss.qc.ca"], [...mand": "actualisation_inventaires_desactivation"}\'), (<pydal.objects.Field object>, \'\')]'
+p246
+sS'table'
+p247
+S'<Table app2app (id, publish_id, subscribe_id, app, status, command, response)>'
+p248
+sssS'traceback'
+p249
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers/actualisation_inventaires.py", line 629, in <module>\n  File ".\\gluon\\globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File ".\\gluon\\tools.py", line 3982, in f\n    return action(*a, **b)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers/actualisation_inventaires.py", line 184, in cis_deactivation\n    response_data=call_background_task()\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\controllers/actualisation_inventaires.py", line 347, in call_background_task\n    response=\'\',\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 753, in insert\n    ret = self._db._adapter.insert(self, row.op_values())\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 486, in insert\n    raise e\nDataError: (u\'22001\', u\'[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.\')\n'
+p250
+s.

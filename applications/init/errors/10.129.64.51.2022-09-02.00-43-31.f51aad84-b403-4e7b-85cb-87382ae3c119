@@ -1,0 +1,19 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+sS'traceback'
+p8
+S'Traceback (most recent call last):\n  File ".\\gluon\\main.py", line 445, in wsgibase\n    serve_controller(request, response, session)\n  File ".\\gluon\\main.py", line 184, in serve_controller\n    page = run_view_in(response._view_environment)\n  File ".\\gluon\\compileapp.py", line 724, in run_view_in\n  File ".\\gluon\\template.py", line 792, in parse_template\n    return str(TemplateParser(text, context=context, path=path, lexers=lexers, delimiters=delimiters))\n  File ".\\gluon\\template.py", line 326, in __str__\n    return self.to_string()\n  File ".\\gluon\\template.py", line 322, in to_string\n    return self.reindent(str(self.content))\n  File ".\\gluon\\template.py", line 401, in reindent\n    new_text = \'\\n\'.join(new_lines)\nMemoryError\n'
+p9
+s.

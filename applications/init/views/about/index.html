@@ -1,0 +1,24 @@
+{{extend 'layout.html'}}
+
+{{block header}}
+    <header class="container-fluid background">
+      <div class="jumbotron text-center">
+        {{if response.title:}}
+        <h1>{{='Une solution évolutive'}}
+          <small>{{=response.subtitle or ''}}</small></h1>
+        {{pass}}
+      </div>
+    </header>
+{{end}}
+
+{{block footer}} <!-- this is default footer -->      
+    <footer class="footer">
+      <div class="container-fluid">
+        <div class="copyright pull-left">{{=T('Copyright')}} &#169; 2016 - {{=request.now.year}} <a href="https://unificace.cemtl.rtss.qc.ca"> CEMTL DRT </a> par <a href="https://vilounha-phanalasy.appspot.com/"> ViP</a> <b>{{='Une solution évolutive du'}}</b><a href="http://10.134.32.31:8000/timeWalker"> timeWalker</a></div>
+        <div id="poweredBy" class="pull-right">
+            {{=T('Powered by')}}
+            <a href="http://www.web2py.com/">web2py</a>
+          </div>
+      </div>
+    </footer>
+{{end}}

@@ -1,0 +1,19 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+sS'traceback'
+p8
+S'Traceback (most recent call last):\n  File ".\\gluon\\main.py", line 505, in wsgibase\n    if request.body:\n  File ".\\gluon\\globals.py", line 278, in body\nHTTP: 400 BAD REQUEST\n'
+p9
+s.

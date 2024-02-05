@@ -1,0 +1,6 @@
+{{extend 'layout.html'}}
+<h3>Selectionnez le menu "Gestion des inventaires"</h3>
+<div>
+    {{#=A("Cliquer ici pour consulter le guide d'utilisation du mudule",_href=URL(f='download',args=['inv_label_files.files.b6ddb26769c81f4f.556e696669636163652047657374696f6e2064657320696e76656e7461697265732e706466.pdf',]))}}
+    <embed src="{{=URL('static','doc/gestion_inventaires.pdf')}}" type="application/pdf" width="100%" height="600px" />
+</div>

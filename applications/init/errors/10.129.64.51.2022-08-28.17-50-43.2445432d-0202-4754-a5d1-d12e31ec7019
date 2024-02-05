@@ -1,0 +1,129 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.IOError'> [Errno 12] Not enough space"
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 000000000241E730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.IOError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.IOError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.IOError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.IOError object>'
+p21
+sS'message'
+p22
+S"''"
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.IOError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.IOError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.IOError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'errno'
+p32
+S'12'
+p33
+sS'__format__'
+p34
+S'<built-in method __format__ of exceptions.IOError object>'
+p35
+sS'__class__'
+p36
+S"<type 'exceptions.IOError'>"
+p37
+sS'filename'
+p38
+S'None'
+p39
+sS'__doc__'
+p40
+S"'I/O operation failed.'"
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of exceptions.IOError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of exceptions.IOError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of exceptions.IOError object>"
+p47
+sS'args'
+p48
+S"(12, 'Not enough space')"
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of exceptions.IOError object>'
+p53
+sS'strerror'
+p54
+S"'Not enough space'"
+p55
+sS'__delattr__'
+p56
+S"<method-wrapper '__delattr__' of exceptions.IOError object>"
+p57
+sS'__repr__'
+p58
+S"<method-wrapper '__repr__' of exceptions.IOError object>"
+p59
+sS'__hash__'
+p60
+S"<method-wrapper '__hash__' of exceptions.IOError object>"
+p61
+ssS'evalue'
+p62
+S'[Errno 12] Not enough space'
+p63
+sS'request'
+p64
+cgluon.html
+XML_unpickle
+p65
+(

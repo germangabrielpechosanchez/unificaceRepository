@@ -1,0 +1,19 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+sS'traceback'
+p8
+S'Traceback (most recent call last):\n  File ".\\gluon\\main.py", line 445, in wsgibase\n    serve_controller(request, response, session)\n  File ".\\gluon\\main.py", line 178, in serve_controller\n    run_models_in(environment)\n  File ".\\gluon\\compileapp.py", line 592, in run_models_in\n    ccode = getcfs(model, model, f)\n  File ".\\gluon\\cfs.py", line 50, in getcfs\n    data = filter()\n  File ".\\gluon\\compileapp.py", line 591, in <lambda>\n    f = lambda: compile2(read_file(model), model)\n  File ".\\gluon\\fileutils.py", line 114, in read_file\n    return f.read()\nMemoryError\n'
+p9
+s.

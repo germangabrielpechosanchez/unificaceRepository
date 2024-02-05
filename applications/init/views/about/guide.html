@@ -1,0 +1,364 @@
+{{#extend 'layout.html'}}
+
+{{#include 'boilerplate.html'}}
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=1024, user-scalable=no">
+  
+    <title>Unificace Presentation</title>
+  
+    <!-- Required stylesheet -->
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/core/deck.core.css')}}"/>
+  
+    <!-- Extension CSS files go here. Remove or add as needed. -->
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/extensions/goto/deck.goto.css')}}"/>
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/extensions/menu/deck.menu.css')}}"/>
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/extensions/navigation/deck.navigation.css')}}"/>
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/extensions/status/deck.status.css')}}"/>
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/extensions/scale/deck.scale.css')}}"/>
+  
+    <!-- Style theme. More available in /themes/style/ or create your own. -->
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/themes/style/web-2.0.css')}}"/>
+  
+    <!-- Transition theme. More available in /themes/transition/ or create your own. -->
+    <link rel="stylesheet" media="screen" href="{{=URL('static','deck/themes/transition/horizontal-slide.css')}}"/>
+  
+    <!-- Basic black and white print styles -->
+    <link rel="stylesheet" media="print" href="{{=URL('static','deck/core/print.css')}}"/>
+
+ 
+    <!-- Required Modernizr file -->
+    <script src="{{=URL('static','deck/modernizr.custom.js')}}"></script>
+  </head>
+  <body>
+    <div class="deck-container">
+     
+          <!-- Begin slides -->
+          <section class="slide" id="cemlt">
+              <img src="{{=URL('static','images/cemtl.jpg')}}">
+          </section>
+
+          <section class="slide" id="title">
+            <h1>L'outil de collaboration <a href="https://unificace.cemtl.rtss.qc.ca/init/about">Unificace&nbsp;</a></h1>
+            <h2>Collaboration entre applications</h2>
+          </section>
+      
+          <section class="slide" id="why0">
+            <h2>Pourquoi? Unificace</h2>
+            <p>“I believe without exception that theory follows practice. Whenever there is a conflict between theory and practice, theory is wrong.”―David Baker</p>
+            <h3 class="slide" id="why01">Unifier pour être éfficace</h3>
+            <ol>
+              <li>
+                <h3 class="slide" id="why1">Unifié</h3>
+                <p class="slide" id="why2">Un endroit unifié pour échanger les données entre nos applications ou progiciels</p>
+                <p class="slide" id="why3">Réunir nos scripts dans un seul endroit et rendre accessible à la bonne personne</p>
+              </li>
+              <li>
+                <h3 class="slide" id="why4">Éfficace</h3>
+                <p class="slide" id="why5">Une seule mis à jour pour chaque changement</p>
+                <p class="slide" id="why6">Simplifier la vie de tout le monde</p>
+              </li>
+              <li>
+                <h3 class="slide" id="why7">Une solution évolutive</h3>
+                <p class="slide" id="why8">Les codes sources sont 100% sous notre controle et évoluent selon notre besoin</p>
+                <p class="slide" id="why9">Capable de collaborer efficacement avec nos outils</p>
+              </li>
+              
+            </ol>
+          </section>
+          
+          <section class="slide" id="what">
+            <h2>C'est quoi?</h2>
+            <p>“You don't have to cook fancy or complicated masterpieces - just good food from fresh ingredients.” ― Julia Child</p>
+            <h3 class="slide" id="what0">Basé sur les ingrédients suivants: web2py, python, PowerShell et SQL Server</h3>        
+            <ol>
+              <li class="slide" id="what01">
+                <strong><a href="http://web2py.com">web2py&nbsp;</a> Un Framework Open Source complet sans dépendance, simple, sécure et moderne</strong>
+              </li>
+              <li class="slide" id="what1">
+                <strong><a href="https://www.python.org">python&nbsp;</a>Un langage lisible, populaire, librairie riche et multiplateforme</strong>
+              </li>      
+              <li class="slide" id="what2">
+                <strong><a href="https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-5.1">PowerShell&nbsp;</a>Conçu sur .NET Framework, bien intégré dans l'écosystème de Microsoft, open source et multiplateforme</strong>              
+              </li>      
+              <li class="slide" id="what3">
+                <strong><a href="https://www.microsoft.com/fr-ca/sql-server/sql-server-2017">SQL Server&nbsp;</a>Une base de données bien connue et nous avons déjà en place</strong>              
+              </li>      
+            </ol>
+
+            <h3 class="slide" id="what4">Une version évolutive de <a href="http://10.134.32.31:8000/timeWalker">timeWalker&nbsp;</a></h3>        
+            <ol>
+              <li class="slide" id="what5">
+                <strong>Conception sur meusure, interface simple, stable depuis sa sortie en 2008</strong>
+              </li>          
+              <li class="slide" id="what7">
+                  <strong>Collaboration possible avec une autre application, comme Virtuo MediAccès</strong>
+              </li>      
+              <li class="slide" id="what8">
+                  <strong>Ses utilisateurs sont très satisfaits</strong>            
+              </li>      
+            </ol>
+            <h3 class="slide" id="what9">Pourrait être utile dans:</h3>        
+            <div>
+              <li class="slide" id="what10">
+                <strong>Depuis: manipulation des paquets réseau  </strong>
+              </li>      
+              <li class="slide" id="what11">
+                <strong>Jusqu'à : accès à des bases de données en nuage</strong>
+              </li>
+            </div>  
+          </section>
+                
+          <section class="slide" id="do">
+            <div style="float: left; width: 45%;">
+                <h2>Ce qu'il fait</h2>
+                <iframe src="https://unificace.cemtl.rtss.qc.ca"width="900" height="800" frameborder="0"></iframe>
+            </div>
+            <div style="float: right; width: 55%;">
+                <h3 class="slide" id="do10">Gestion des absences</h3>        
+                <ol>
+                  <li class="slide" id="do11">
+                    <strong>Calendrier des absence est MÀJ systématiquement par Marie-Claude</strong>
+                  </li>      
+                  <li class="slide" id="do12">
+                    <strong>Synchronisation automatique avec le module Gestion des projets et BD(backup) d'Octopus</strong>
+                  </li>
+                </ol>
+                <div class="slide" id="do20">
+                  <h3>Gestion des ADs</h3>
+                  <p>Une version evoluée du script PowerShell pour création des comptes 8300 GRM-GRF</p>
+                </div>        
+                <ol>
+                  <li class="slide" id="do21">
+                    <strong>Gestion des utilisateurs: création et gestion des comptes ADs par modèle:</strong>
+                    <ol>
+                        <li class="slide" id="do211">
+                          <strong>Accès informatique/applicatif (d'Octopus)</strong>
+                        </li>
+                        <li class="slide" id="do212">
+                            <strong>Profil des utilisateurs</strong>
+                          </li>      
+                        <li class="slide" id="do213">
+                          <strong> Utilisateur modèle</strong>
+                        </li>
+                      </ol>  
+                  </li>
+                  <li class="slide" id="do22">
+                      <strong>Historique des actions réalisées, Sécurité à plusieurs niveaux</strong>
+                    </li>      
+                  <li class="slide" id="do22">
+                    <strong>Synchronisation automatique avec la liste des accès de BD(backup) d'Octopus</strong>
+                  </li>
+                </ol>
+                <h3 class="slide" id="do30">Calendrier des changements</h3>        
+                <ol>
+                  <li class="slide" id="do31">
+                    <strong>Calendrier des changements filtrés au besoin, accèssible même sur téléphone mobile</strong>
+                  </li>      
+                  <li class="slide" id="do32">
+                    <strong>Synchronisation automatique avec la BD(backup) d'Octopus</strong>
+                  </li>
+                </ol>  
+            </div>
+          </section>
+
+
+          <section class="slide" id="-do">
+              <div style="float: left; width: 45%;">
+                  <h2>Ce qu'il fait</h2>
+                  <iframe src="https://unificace.cemtl.rtss.qc.ca"width="900" height="800" frameborder="0"></iframe>
+              </div>
+              <div style="float: right; width: 55%;">
+                <div class="slide" id="-do10">
+                  <h3>Gestion des factures</h3>
+                  <p>Des téléphones mobiles Telus</p>
+                </div>        
+                  <ol>
+                    <li class="slide" id="-do11">
+                      <strong>Tous les gestionnaires du CEMTL peuvent consulter la liste des dépenses et des téléphones mobiles de son service</strong>
+                    </li>      
+                    <li class="slide" id="-do12">
+                      <strong>Automatisation des importations et exportations des factures vers le systeme GRF</strong>
+                    </li>
+                  </ol>
+                  <div class="slide" id="-do20">
+                    <h3>Gestion des inventaires</h3>
+                    <p>Une version centralisée pour produire rapport GESTRED etc.</p>
+                  </div>        
+                  <ol>
+                    <li class="slide" id="-do21">
+                      <strong>Inventaire des serveurs personnalisés</strong>
+                    </li>
+                    <li class="slide" id="-do22">
+                      <strong>Les MÀJ des données en arrière plan avec ADs, Vcenters, WMI, SCCM (en test) ou par validation manuelle</strong>
+                      </li>      
+                    <li class="slide" id="-do22">
+                      <strong>Exportation vers Octopus (en ce moment on fait manuellement)</strong>
+                    </li>
+                  </ol>
+                  <div class="slide" id="-do30">
+                      <h3>Gestion des mappages</h3>
+                      <p>Une version web de script mappage des lectures de réseau pour déménagement 2016</p>
+                  </div>          
+                  <ol>
+                    <li class="slide" id="-do31">
+                        <strong>Lancer manuellement le mappage</strong>
+                    </li>      
+                    <li class="slide" id="-do32">
+                        <strong>MÀJ le fichier CSV qui est sécurisé par interface</strong>
+                    </li>
+                  </ol>  
+              </div>
+            </section>
+
+
+            <section class="slide" id="--do">
+                <div style="float: left; width: 45%;">
+                    <h2>Ce qu'il fait</h2>
+                    <iframe src="https://unificace.cemtl.rtss.qc.ca"width="900" height="800" frameborder="0"></iframe>
+                </div>
+                <div style="float: right; width: 55%;">
+                  <div class="slide" id="--do10">
+                    <h3>Gestion de capacité RH (projet)</h3>
+                    <p>Comptabilisation des diponibilités pour les projets d'affaire</p>
+                  </div>        
+                    <ol>
+                      <li class="slide" id="--do11">
+                        <strong>Par groupe ou par ressource</strong>
+                      </li>      
+                      <li class="slide" id="--do12">
+                        <strong>Synchronisation automatique avec le module Gestion des absences et BD(backup) d'Octopus</strong>
+                      </li>
+                    </ol>
+                    <div class="slide" id="--do20">
+                      <h3>Gestion du proxy</h3>
+                      <p>Groupe de sécurité pour les profils internet </p>
+                    </div>        
+                    <ol>
+                      <li class="slide" id="--do21">
+                        <strong>Permettre aux utilisateurs autorisés de changer lui-même son profil d'internet dans des ADs</strong>
+                      </li>
+                    </ol>
+                    <div class="slide" id="--do30">
+                        <h3>Gestion des PVS</h3>
+                    </div>          
+                    <ol>
+                      <li class="slide" id="--do31">
+                          <strong>Calendrier les MÀJ des images PVS centralisées</strong>
+                      </li>      
+                      <li class="slide" id="--do32">
+                          <strong>Importation manuelle de la liste des images</strong>
+                      </li>
+                    </ol>
+                    <div class="slide" id="--do40">
+                        <h3>Gestion RDM & RDP</h3>
+                        <p>Sychronisation entre l'inventaire des serveurs et Remote Desktop Manager et même temps avec la liste de RDP</p>
+                    </div> 
+                    <div class="slide" id="--do50">
+                        <h3>Gestion VMs</h3>
+                        <p>Uniformisation de la création des VM dans Vcenter (En développement)</p>
+                    </div> 
+                </div>
+              </section>
+              
+              <!-- <h1>La réponse est : Il y a beaucoup de possibilités !</h1> -->
+
+              <section class="slide" id="end">
+                  <h2>Sur Cemtl: <a href="https://unificace.cemtl.rtss.qc.ca">https://unificace.cemtl.rtss.qc.ca&nbsp;</a></h2>
+                  <!--
+                  <h2>Sur Azure: <a href="http://cemtl.net"> http://cemtl.net &nbsp;</a></h2>
+                  -->
+                  <h1>Évolution sur mesure &nbsp;</h1>
+              </section>
+
+              <section class="slide" id="-end">
+                  <h2>Questions?</h2>
+                  <img src="{{=URL('static','images/bird.jpg')}}" alt="Bird">
+                  <pre><code>“If you can't explain it simply, you don't understand it well enough.” ― Albert Einstein</code></pre>
+              </section>
+
+              <section class="slide" id="--end">
+                  <h2>Une telle collaboration est indispensable :)</h2>
+                  <img src="{{=URL('static','images/collaboration.jpg')}}" alt="Bird">
+              </section>
+
+                   
+          
+      
+    
+      
+          <!-- deck.navigation snippet -->
+          <div aria-role="navigation">
+            <a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+            <a href="#" class="deck-next-link" title="Next">&#8594;</a>
+          </div>
+      
+          <!-- deck.status snippet -->
+          <p class="deck-status" aria-role="status">
+            <span class="deck-status-current"></span>
+            /
+            <span class="deck-status-total"></span>
+          </p>
+
+          <!-- deck.timer snippet  #deck-timer on #deck.status.css  \\s03vwpr00031\Users\unificace\unificace\web2py\applications\init\static\deck\extensions\status-->
+          <p id="deck-timer" >              
+          </p>
+
+      
+          <!-- deck.goto snippet -->
+          <form action="." method="get" class="goto-form">
+            <label for="goto-slide">Go to slide:</label>
+            <input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+            <datalist id="goto-datalist"></datalist>
+            <input type="submit" value="Go">
+          </form>
+        </div>
+  
+  <!-- Required JS files. -->
+  <script src="{{=URL('static','deck/jquery.min.js')}}"></script>
+  <script src="{{=URL('static','deck/core/deck.core.js')}}"></script>
+  
+  <!-- Extension JS files. Add or remove as needed. -->
+  <script src="{{=URL('static','deck/extensions/menu/deck.menu.js')}}"></script>
+  <script src="{{=URL('static','deck/extensions/goto/deck.goto.js')}}"></script>
+  <script src="{{=URL('static','deck/extensions/status/deck.status.js')}}"></script>
+  <script src="{{=URL('static','deck/extensions/navigation/deck.navigation.js')}}"></script>
+  <script src="{{=URL('static','deck/extensions/scale/deck.scale.js')}}"></script>
+  
+  <!-- Initialize the deck. You can put this in an external file if desired. -->
+  <script>
+    $(function() {
+      $.deck('.slide');
+    });
+  </script>
+  <script>
+      //vp modification use setInterval of https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_countdown
+      // Set the date we're counting down to
+      //20 minutes=20*60*1000
+      var countDownDate = new Date().getTime()+2400000;
+      // Update the count down every 1 second
+      var x = setInterval(function() {
+          // Get todays date and time
+          var now = new Date().getTime();
+          // Find the distance between now an the count down date
+          var distance = countDownDate - now;        
+          // Time calculations for days, hours, minutes and seconds
+          //var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          //var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          var seconds = Math.floor((distance % (1000 * 60)) / 1000);        
+          // Output the result in an element with id="demo"
+          document.getElementById("deck-timer").innerHTML =minutes + ":" + seconds       
+          // If the count down is over, write some text 
+          if (distance < 0) {
+              clearInterval(x);
+              document.getElementById("deck-timer").innerHTML = "MERCI DE VOTRE ATTENTION !";
+          }
+      }, 30000);//20 second
+  </script>
+
+  </body>
+  </html>

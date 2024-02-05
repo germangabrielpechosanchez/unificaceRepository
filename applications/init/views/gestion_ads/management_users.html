@@ -1,0 +1,56 @@
+{{extend 'layout.html'}}
+{{=form}}
+
+<head>
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    text-align: left;
+    padding: 8px;
+    font-size: 100%;
+    /* border: 1px solid black; */
+    background-color: #b3d9ff;
+    color: black;
+		
+}
+td {
+    text-align: left;
+    padding: 8px;
+    /*  border: 1px solid white; */
+    /* background-color: #6CE5DA */
+}
+#tr:nth-child(even){background-color: #f2f2f2}
+#tr:hover{border-bottom: 2px solid #000000}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+
+</style>
+</head>
+{{#=XML(grid)}}
+{{=script}}

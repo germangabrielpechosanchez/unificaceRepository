@@ -1,0 +1,228 @@
+(dp1
+S'output'
+p2
+S'Unable to open included view file: C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\views\\layout.html'
+p3
+sS'layer'
+p4
+S'ParserContainer'
+p5
+sS'code'
+p6
+S'{{extend \'layout.html\'}}\r\n\r\n{{block header}}\r\n    <header class="container-fluid background">\r\n      <div class="jumbotron text-center">\r\n        {{if response.title:}}\r\n        <h1> {{=\'Une solution \xc3\xa9volutive\'}} </h1>\r\n        {{pass}}\r\n      </div>\r\n    </header>\r\n{{end}}\r\n{{#\'La sophistication dans sa forme la plus simple\'}}\r\n{{#Unifying simple solutions to make another}}\r\n{{#<p>Unifier des solutions simples pour faire une autre</p>}}\r\n\r\n\r\n{{#=list(dict(request))}}\r\n\r\n{{#=session}}\r\n\r\n{{#=response}}\r\n'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.IOError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.IOError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.IOError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.IOError object>'
+p21
+sS'message'
+p22
+S"''"
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.IOError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.IOError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.IOError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'errno'
+p32
+S'12'
+p33
+sS'__format__'
+p34
+S'<built-in method __format__ of exceptions.IOError object>'
+p35
+sS'__class__'
+p36
+S"<type 'exceptions.IOError'>"
+p37
+sS'filename'
+p38
+S'None'
+p39
+sS'__doc__'
+p40
+S"'I/O operation failed.'"
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of exceptions.IOError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of exceptions.IOError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of exceptions.IOError object>"
+p47
+sS'args'
+p48
+S"(12, 'Not enough space')"
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of exceptions.IOError object>'
+p53
+sS'strerror'
+p54
+S"'Not enough space'"
+p55
+sS'__delattr__'
+p56
+S"<method-wrapper '__delattr__' of exceptions.IOError object>"
+p57
+sS'__repr__'
+p58
+S"<method-wrapper '__repr__' of exceptions.IOError object>"
+p59
+sS'__hash__'
+p60
+S"<method-wrapper '__hash__' of exceptions.IOError object>"
+p61
+ssS'evalue'
+p62
+S'[Errno 12] Not enough space'
+p63
+sS'frames'
+p64
+(lp65
+(dp66
+S'file'
+p67
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\template.py'
+p68
+sS'dump'
+p69
+(dp70
+S'text'
+p71
+S'undefined'
+p72
+sS'fileobj.read'
+p73
+S'<built-in method read of file object>'
+p74
+sS'fileobj'
+p75
+S"<open file 'C:\\\\Users\\\\unificace\\\\unificace\\\\web...plications\\\\init\\\\views\\\\layout.html', mode 'rb'>"
+p76
+ssS'lnum'
+p77
+I446
+sS'lines'
+p78
+(dp79
+I448
+S'        except IOError:'
+p80
+sI449
+S"            self._raise_error('Unable to open included view file: ' + filepath)"
+p81
+sI450
+S'        text = to_native(text)'
+p82
+sI441
+S'        filepath = self.path and os.path.join(self.path, filename) or filename'
+p83
+sI442
+S''
+sI443
+S'        # try to read the text.'
+p84
+sI444
+S'        try:'
+p85
+sI445
+S"            fileobj = open(filepath, 'rb')"
+p86
+sI446
+S'            text = fileobj.read()'
+p87
+sI447
+S'            fileobj.close()'
+p88
+ssS'call'
+p89
+S"(self=<gluon.template.TemplateParser object>, filename='layout.html')"
+p90
+sS'func'
+p91
+S'_get_file_text'
+p92
+sasS'pyver'
+p93
+S'Python 2.7.13: c:\\python27\\python.exe (prefix: c:\\python27)'
+p94
+sS'etype'
+p95
+S"<type 'exceptions.IOError'>"
+p96
+sS'date'
+p97
+S'Sat Sep 03 03:22:29 2022'
+p98
+sS'locals'
+p99
+(dp100
+S'self'
+p101
+S'<gluon.template.TemplateParser object>'
+p102
+sS'filepath'
+p103
+S"r'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\views\\layout.html'"
+p104
+sS'fileobj'
+p105
+S"<open file 'C:\\\\Users\\\\unificace\\\\unificace\\\\web...plications\\\\init\\\\views\\\\layout.html', mode 'rb'>"
+p106
+sS'context'
+p107
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p108
+sg38
+S"'layout.html'"
+p109
+sssS'traceback'
+p110
+S'Traceback (most recent call last):\n  File ".\\gluon\\template.py", line 446, in _get_file_text\n    text = fileobj.read()\nIOError: [Errno 12] Not enough space\n'
+p111
+s.

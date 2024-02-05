@@ -1,0 +1,19 @@
+(dp1
+S'output'
+p2
+S''
+sS'layer'
+p3
+S'Framework'
+p4
+sS'code'
+p5
+S''
+sS'snapshot'
+p6
+(dp7
+sS'traceback'
+p8
+S'Traceback (most recent call last):\n  File ".\\gluon\\main.py", line 445, in wsgibase\n    serve_controller(request, response, session)\n  File ".\\gluon\\main.py", line 180, in serve_controller\n    page = run_controller_in(request.controller, request.function, environment)\n  File ".\\gluon\\compileapp.py", line 648, in run_controller_in\n    code = "%s\\nresponse._vars=response._caller(%s)" % (code, function)\nMemoryError\n'
+p9
+s.

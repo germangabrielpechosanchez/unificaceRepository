@@ -1,0 +1,12 @@
+{{extend 'layout.html'}}
+{{if request.vars.pdf:}}
+<a href="{{=URL(r=request,f='download',args=[request.vars.pdf])}}" TARGET="_BLANK" title=>Report in pdf</a>
+{{pass}}
+
+{{=form}}
+{{=records}}
+
+<br>{{#=request.vars}}</br>
+
+<br>{{#=session}}</br>
+

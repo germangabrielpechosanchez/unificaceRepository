@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'CommonDialect' object has no attribute 'gt'"
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 00000000021DB730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 360, in <module>\n    user_to_group=db(db.pre_user_to_group.id>0).select()# db.pre_user_to_group.id,db.pre_user_to_group.user_id,db.pre_user_to_group.group_id\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 1390, in __gt__\n    return Query(self.db, self._dialect.gt, self, value)\nAttributeError: \'CommonDialect\' object has no attribute \'gt\'\n'
+p11
+s.

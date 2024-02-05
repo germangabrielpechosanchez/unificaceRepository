@@ -1,0 +1,43 @@
+recipient	cc	bcc	subject	attachments	reply_to	messages
+vphanalasy@ssss.gouv.qc.ca			test1		vphanalasy@ssss.gouv.qc.ca	"<!DOCTYPE html>
+<html>
+<body>
+
+<address>
+Written by <a href=""mailto:webmaster@example.com"">Jon Doe</a>.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+
+</body>
+</html>"
+vphanalasy@gmail.com			tes2		vphanalasy@ssss.gouv.qc.ca	"<!DOCTYPE html>
+<html>
+<body>
+
+<address>
+Written by <a href=""mailto:webmaster@example.com"">Jon Doe</a>.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland <br>
+USA
+</address>
+
+</body>
+</html>"
+edelalande.iusmm@ssss.gouv.qc.ca			testEli		migration.outlook.cemtl@ssss.gouv.qc.ca	"<!DOCTYPE html>
+<html>
+<body>
+
+<address>
+Written by <a href=""mailto:webmaster@example.com"">Jon Doe</a>.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland <br>
+USA
+</address>
+
+</body>
+</html>"

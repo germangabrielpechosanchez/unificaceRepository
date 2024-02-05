@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S'<type \'exceptions.ImportError\'> (ImportError("Cannot import module \'applications.init.modules.ldap\'",), <traceback object at 0x0000000002DFCE48>)'
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0000000002AAE730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 106, in <module>\n    from gluon.contrib.login_methods.ldap_auth import ldap_auth\n  File ".\\gluon\\custom_import.py", line 111, in custom_importer\n    return NATIVE_IMPORTER(name, globals, locals, fromlist, level)\n  File ".\\gluon\\contrib\\login_methods\\ldap_auth.py", line 14, in <module>\n    raise e\nImportError: (ImportError("Cannot import module \'applications.init.modules.ldap\'",), <traceback object at 0x0000000002DFCE48>)\n'
+p11
+s.

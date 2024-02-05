@@ -1,0 +1,963 @@
+(dp1
+S'output'
+p2
+S"<class 'gluon.contrib.pypyodbc.DatabaseError'> (u'01000', u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).')"
+p3
+sS'layer'
+p4
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 000000000283F730, file "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 14>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__module__'
+p12
+S"'gluon.contrib.pypyodbc'"
+p13
+sS'__getslice__'
+p14
+S"<method-wrapper '__getslice__' of DatabaseError object>"
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of DatabaseError object>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of DatabaseError object>'
+p19
+sS'__dict__'
+p20
+S"{'value': (u'01000', u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).')}"
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of DatabaseError object>'
+p23
+sS'__weakref__'
+p24
+S'None'
+p25
+sS'message'
+p26
+S"''"
+p27
+sS'__init__'
+p28
+S"<bound method DatabaseError.__init__ of Database...rver Driver][DBNETLIB]ConnectionRead (recv()).')>"
+p29
+sS'__setattr__'
+p30
+S"<method-wrapper '__setattr__' of DatabaseError object>"
+p31
+sS'__reduce_ex__'
+p32
+S'<built-in method __reduce_ex__ of DatabaseError object>'
+p33
+sS'__new__'
+p34
+S'<built-in method __new__ of type object>'
+p35
+sS'__format__'
+p36
+S'<built-in method __format__ of DatabaseError object>'
+p37
+sS'__class__'
+p38
+S"<class 'gluon.contrib.pypyodbc.DatabaseError'>"
+p39
+sS'__doc__'
+p40
+S'None'
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of DatabaseError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of DatabaseError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of DatabaseError object>"
+p47
+sS'args'
+p48
+S"(u'01000', u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).')"
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of DatabaseError object>'
+p53
+sS'value'
+p54
+S"(u'01000', u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).')"
+p55
+sS'__delattr__'
+p56
+S"<method-wrapper '__delattr__' of DatabaseError object>"
+p57
+sS'__repr__'
+p58
+S"<method-wrapper '__repr__' of DatabaseError object>"
+p59
+sS'__hash__'
+p60
+S"<method-wrapper '__hash__' of DatabaseError object>"
+p61
+ssS'evalue'
+p62
+S"(u'01000', u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).')"
+p63
+sS'request'
+p64
+cgluon.html
+XML_unpickle
+p65
+(S's\x07d\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">APPL_MD_PATH</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2/ROOT</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APPL_PHYSICAL_PATH</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APP_POOL_CONFIG</td><td style="vertical-align:top;">:</td><td><div>C:\\inetpub\\temp\\apppools\\unificace\\unificace.config</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">APP_POOL_ID</td><td style="vertical-align:top;">:</td><td><div>unificace</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_PASSWORD</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_TYPE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">AUTH_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_COOKIE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_FLAGS</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_ISSUER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_SERIALNUMBER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CERT_SUBJECT</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">DOCUMENT_ROOT</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">GATEWAY_INTERFACE</td><td style="vertical-align:top;">:</td><td><div>CGI/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS</td><td style="vertical-align:top;">:</td><td><div>on</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_KEYSIZE</td><td style="vertical-align:top;">:</td><td><div>256</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SECRETKEYSIZE</td><td style="vertical-align:top;">:</td><td><div>2048</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SERVER_ISSUER</td><td style="vertical-align:top;">:</td><td><div>C=US, O=&quot;Entrust, Inc.&quot;, OU=See www.entrust.net/legal-terms, OU=&quot;(c) 2012 Entrust, Inc. - for authorized use only&quot;, CN=Entrust Certification Authority - L1K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTPS_SERVER_SUBJECT</td><td style="vertical-align:top;">:</td><td><div>C=CA, S=Quebec, L=Quebec, O=Minist\xe8re de la sant\xe9 et des services sociaux du Qu\xe9bec, CN=*.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>Close</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41:443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_ORIGINAL_URL</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">IIS_UrlRewriteModule</td><td style="vertical-align:top;">:</td><td><div>7.1.1980.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">IIS_WasUrlRewritten</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_ID</td><td style="vertical-align:top;">:</td><td><div>2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_META_PATH</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">INSTANCE_NAME</td><td style="vertical-align:top;">:</td><td><div>UNIFICACE</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">LOCAL_ADDR</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">LOGON_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_TRANSLATED</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_HOST</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>1906</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_USER</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>HEAD</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_URI</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_FILENAME</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT_SECURE</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Microsoft-IIS/8.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">UNENCODED_URL</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">URL</td><td style="vertical-align:top;">:</td><td><div>/handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_pool_config</td><td style="vertical-align:top;">:</td><td><div>C:\\inetpub\\temp\\apppools\\unificace\\unificace.config</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_pool_id</td><td style="vertical-align:top;">:</td><td><div>unificace</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">appl_md_path</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2/ROOT</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">appl_physical_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_password</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_type</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_cookie</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_flags</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_issuer</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_serialnumber</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cert_subject</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">document_root</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gateway_interface</td><td style="vertical-align:top;">:</td><td><div>CGI/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>Close</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41:443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https</td><td style="vertical-align:top;">:</td><td><div>on</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_keysize</td><td style="vertical-align:top;">:</td><td><div>256</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_secretkeysize</td><td style="vertical-align:top;">:</td><td><div>2048</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_server_issuer</td><td style="vertical-align:top;">:</td><td><div>C=US, O=&quot;Entrust, Inc.&quot;, OU=See www.entrust.net/legal-terms, OU=&quot;(c) 2012 Entrust, Inc. - for authorized use only&quot;, CN=Entrust Certification Authority - L1K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">https_server_subject</td><td style="vertical-align:top;">:</td><td><div>C=CA, S=Quebec, L=Quebec, O=Minist\xe8re de la sant\xe9 et des services sociaux du Qu\xe9bec, CN=*.cemtl.rtss.qc.ca</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">iis_urlrewritemodule</td><td style="vertical-align:top;">:</td><td><div>7.1.1980.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">iis_wasurlrewritten</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_id</td><td style="vertical-align:top;">:</td><td><div>2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_meta_path</td><td style="vertical-align:top;">:</td><td><div>/LM/W3SVC/2</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">instance_name</td><td style="vertical-align:top;">:</td><td><div>UNIFICACE</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_addr</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>S03VWPR00031</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>10.129.65.41</div></td></tr><tr><td><div>S03VWPR00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logon_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_translated</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_host</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>1906</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_user</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>HEAD</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>10.129.65.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>443</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port_secure</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Microsoft-IIS/8.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">unencoded_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/handler.web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wfastcgi.http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wfastcgi_http_x_original_url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0000000006522308&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringI object at 0x0000000002B6AB58&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.path_info</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>https</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0000000006522308&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringI object at 0x0000000002B6AB58&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_path_info</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>https</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\unificace\\\\unificace\\\\web2py\\\\applications\\\\init\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>S03VWPR00031</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>10.129.65.41</div></td></tr><tr><td><div>S03VWPR00031.cemtl.rtss.qc.ca</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2023, 8, 13, 18, 30, 59, 377000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2023, 8, 13, 22, 30, 59, 377000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x0000000003164550&gt;</div></td></tr></table></div>'
+tRp66
+sS'frames'
+p67
+(lp68
+(dp69
+S'file'
+p70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\restricted.py'
+p71
+sS'dump'
+p72
+(dp73
+S'environment'
+p74
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p75
+sS'ccode'
+p76
+S'<code object <module> at 000000000283F730, file ...\\web2py\\applications\\init\\models\\db.py", line 14>'
+p77
+ssS'lnum'
+p78
+I219
+sS'lines'
+p79
+(dp80
+I214
+S'    if environment is None:'
+p81
+sI215
+S'        environment = {}'
+p82
+sI216
+S"    environment['__file__'] = layer"
+p83
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p84
+sI218
+S'    try:'
+p85
+sI219
+S'        exec(ccode, environment)'
+p86
+sI220
+S'    except HTTP:'
+p87
+sI221
+S'        raise'
+p88
+sI222
+S'    except RestrictedError:'
+p89
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p90
+ssS'call'
+p91
+S'(ccode=<code object <module> at 000000000283F730, file ...\\web2py\\applications\\init\\models\\db.py", line 14>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py\', scode=<code object <module> at 000000000283F730, file ...\\web2py\\applications\\init\\models\\db.py", line 14>)'
+p92
+sS'func'
+p93
+S'restricted'
+p94
+sa(dp95
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py'
+p96
+sg72
+(dp97
+S'utg_user_id'
+p98
+S"'ataar8300'"
+p99
+sS'this_utg'
+p100
+S'<Rows (0)>'
+p101
+sS'db'
+p102
+S'<DAL uri="mssql4:******@S03VWPR00004.cemtl.rtss.qc.ca/unificace">'
+p103
+sS').select'
+p104
+S'undefined'
+p105
+sS'db.auth_user.username'
+p106
+S'<pydal.objects.Field object>'
+p107
+sS'db.auth_user.id'
+p108
+S'<pydal.objects.Field object>'
+p109
+sS'db.auth_user'
+p110
+S'<Table auth_user (id, first_name, last_name, ema...ration_key, reset_password_key, registration_id)>'
+p111
+ssg78
+I365
+sg79
+(dp112
+I360
+S'user_to_group=db(db.pre_user_to_group.id>0).select()# db.pre_user_to_group.id,db.pre_user_to_group.user_id,db.pre_user_to_group.group_id'
+p113
+sI361
+S'if user_to_group: # check if records existe in db.pre_user_to_group'
+p114
+sI362
+S'    for utg in user_to_group:'
+p115
+sI363
+S'        #msg+=str(utg_user_id)+"---"+str(utg.group_id)'
+p116
+sI364
+S'        utg_user_id=(utg.user_id).lower()'
+p117
+sI365
+S'        this_utg=db(db.auth_user.username==utg_user_id).select(db.auth_user.id)#if user already exist in auth_user table'
+p118
+sI366
+S'        if this_utg:'
+p119
+sI367
+S'            #msg+=str(this_utg[0].id)'
+p120
+sI368
+S'            exist_utg=db((db.auth_membership.user_id==this_utg[0].id)&(db.auth_membership.group_id==utg.group_id)).select(db.auth_membership.id)'
+p121
+sI369
+S'            if not exist_utg:'
+p122
+ssg91
+S'()'
+p123
+sg93
+S'<module>'
+p124
+sa(dp125
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py'
+p126
+sg72
+(dp127
+S'self.query'
+p128
+S'<Query ("auth_user"."username" = \'ataar8300\')>'
+p129
+sS'adapter.select'
+p130
+S'<bound method MSSQL4.select of <pydal.adapters.mssql.MSSQL4 object>>'
+p131
+sS'fields'
+p132
+S'[<pydal.objects.Field object>]'
+p133
+sS'adapter'
+p134
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p135
+sS'attributes'
+p136
+S'{}'
+p137
+sS'self'
+p138
+S'<Set ("auth_user"."username" = \'ataar8300\')>'
+p139
+ssg78
+I2250
+sg79
+(dp140
+I2245
+S"                                    attributes.get('join', None),"
+p141
+sI2246
+S"                                    attributes.get('left', None),"
+p142
+sI2247
+S"                                    attributes.get('orderby', None),"
+p143
+sI2248
+S"                                    attributes.get('groupby', None))"
+p144
+sI2249
+S'        fields = adapter.expand_all(fields, tablenames)'
+p145
+sI2250
+S'        return adapter.select(self.query, fields, attributes)'
+p146
+sI2251
+S''
+sI2252
+S'    def iterselect(self, *fields, **attributes):'
+p147
+sI2253
+S'        adapter = self.db._adapter'
+p148
+sI2254
+S'        tablenames = adapter.tables(self.query,'
+p149
+ssg91
+S'(self=<Set ("auth_user"."username" = \'ataar8300\')>, *fields=[<pydal.objects.Field object>], **attributes={})'
+p150
+sg93
+S'select'
+p151
+sa(dp152
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p153
+sg72
+(dp154
+S'self._select_aux'
+p155
+S'<bound method MSSQL4._select_aux of <pydal.adapters.mssql.MSSQL4 object>>'
+p156
+sS'fields'
+p157
+S'[<pydal.objects.Field object>]'
+p158
+sS'self'
+p159
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p160
+sS'sql'
+p161
+S'\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\''
+p162
+sS'attributes'
+p163
+g137
+sS'colnames'
+p164
+S"['auth_user.id']"
+p165
+ssg78
+I762
+sg79
+(dp166
+I757
+S'        colnames, sql = self._select_wcols(query, fields, **attributes)'
+p167
+sI758
+S"        cache = attributes.get('cache', None)"
+p168
+sI759
+S"        if cache and attributes.get('cacheable', False):"
+p169
+sI760
+S'            return self._cached_select('
+p170
+sI761
+S'                cache, sql, fields, attributes, colnames)'
+p171
+sI762
+S'        return self._select_aux(sql, fields, attributes, colnames)'
+p172
+sI763
+S''
+sI764
+S'    def iterselect(self, query, fields, attributes):'
+p173
+sI765
+S'        colnames, sql = self._select_wcols(query, fields, **attributes)'
+p174
+sI766
+S"        cacheable = attributes.get('cacheable', False)"
+p175
+ssg91
+S'(self=<pydal.adapters.mssql.MSSQL4 object>, query=<Query ("auth_user"."username" = \'ataar8300\')>, fields=[<pydal.objects.Field object>], attributes={})'
+p176
+sg93
+g151
+sa(dp177
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p178
+sg72
+(dp179
+S'self'
+p180
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p181
+sS'rows'
+p182
+g105
+sS'self._select_aux_execute'
+p183
+S'<bound method MSSQL4._select_aux_execute of <pydal.adapters.mssql.MSSQL4 object>>'
+p184
+sS'sql'
+p185
+S'\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\''
+p186
+ssg78
+I718
+sg79
+(dp187
+I713
+S'        return self.cursor.fetchall()'
+p188
+sI714
+S''
+sI715
+S'    def _select_aux(self, sql, fields, attributes, colnames):'
+p189
+sI716
+S"        cache = attributes.get('cache', None)"
+p190
+sI717
+S'        if not cache:'
+p191
+sI718
+S'            rows = self._select_aux_execute(sql)'
+p192
+sI719
+S'        else:'
+p193
+sI720
+S'            if isinstance(cache, dict):'
+p194
+sI721
+S"                cache_model = cache['model']"
+p195
+sI722
+S"                time_expire = cache['expiration']"
+p196
+ssg91
+S'(self=<pydal.adapters.mssql.MSSQL4 object>, sql=\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\', fields=[<pydal.objects.Field object>], attributes={}, colnames=[\'auth_user.id\'])'
+p197
+sg93
+S'_select_aux'
+p198
+sa(dp199
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p200
+sg72
+(dp201
+S'self'
+p202
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p203
+sS'self.execute'
+p204
+S'<bound method MSSQL4.wrap of <pydal.adapters.mssql.MSSQL4 object>>'
+p205
+sS'sql'
+p206
+S'\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\''
+p207
+ssg78
+I712
+sg79
+(dp208
+I707
+S''
+sI708
+S'    def nested_select(self, query, fields, attributes):'
+p209
+sI709
+S'        return Select(self.db, query, fields, attributes)'
+p210
+sI710
+S''
+sI711
+S'    def _select_aux_execute(self, sql):'
+p211
+sI712
+S'        self.execute(sql)'
+p212
+sI713
+S'        return self.cursor.fetchall()'
+p213
+sI714
+S''
+sI715
+S'    def _select_aux(self, sql, fields, attributes, colnames):'
+p214
+sI716
+S"        cache = attributes.get('cache', None)"
+p215
+ssg91
+S'(self=<pydal.adapters.mssql.MSSQL4 object>, sql=\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\')'
+p216
+sg93
+S'_select_aux_execute'
+p217
+sa(dp218
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\__init__.py'
+p219
+sg72
+(dp220
+S'kwargs'
+p221
+g137
+sS'args'
+p222
+S'(<pydal.adapters.mssql.MSSQL4 object>, \'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\')'
+p223
+sS'f'
+S'<function execute>'
+p224
+ssg78
+I67
+sg79
+(dp225
+I64
+S'            if len(args) > 1:'
+p226
+sI65
+S'                raise ValueError(args[1])'
+p227
+sI66
+S"            raise RuntimeError('no connection available')"
+p228
+sI67
+S'        return f(*args, **kwargs)'
+p229
+sI68
+S'    return wrap'
+p230
+sI69
+S''
+sI70
+S''
+sI71
+S'from .base import SQLAdapter, NoSQLAdapter'
+p231
+sI62
+S'    def wrap(*args, **kwargs):'
+p232
+sI63
+S'        if not args[0].connection:'
+p233
+ssg91
+S'(*args=(<pydal.adapters.mssql.MSSQL4 object>, \'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\'), **kwargs={})'
+p234
+sg93
+S'wrap'
+p235
+sa(dp236
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p237
+sg72
+(dp238
+S'rv'
+p239
+g105
+sS'self'
+p240
+S'<pydal.adapters.mssql.MSSQL4 object>'
+p241
+sS'args'
+p242
+S'(\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\',)'
+p243
+sS'self.cursor'
+p244
+S'<gluon.contrib.pypyodbc.Cursor instance>'
+p245
+sS'command'
+p246
+S'\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\''
+p247
+sS'self.cursor.execute'
+p248
+S'<bound method Cursor.execute of <gluon.contrib.pypyodbc.Cursor instance>>'
+p249
+sS'kwargs'
+p250
+g137
+ssg78
+I412
+sg79
+(dp251
+I416
+S''
+sI407
+S'    def execute(self, *args, **kwargs):'
+p252
+sI408
+S'        command = self.filter_sql_command(args[0])'
+p253
+sI409
+S'        handlers = self._build_handlers_for_execution()'
+p254
+sI410
+S'        for handler in handlers:'
+p255
+sI411
+S'            handler.before_execute(command)'
+p256
+sI412
+S'        rv = self.cursor.execute(command, *args[1:], **kwargs)'
+p257
+sI413
+S'        for handler in handlers:'
+p258
+sI414
+S'            handler.after_execute(command)'
+p259
+sI415
+S'        return rv'
+p260
+ssg91
+S'(self=<pydal.adapters.mssql.MSSQL4 object>, *args=(\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\',), **kwargs={})'
+p261
+sg93
+S'execute'
+p262
+sa(dp263
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\contrib\\pypyodbc.py'
+p264
+sg72
+(dp265
+S'query_string'
+p266
+S'\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\''
+p267
+sS'self'
+p268
+S'<gluon.contrib.pypyodbc.Cursor instance>'
+p269
+sS'self.execdirect'
+p270
+S'<bound method Cursor.execdirect of <gluon.contrib.pypyodbc.Cursor instance>>'
+p271
+ssg78
+I1605
+sg79
+(dp272
+I1600
+S'                self._NumOfRows()'
+p273
+sI1601
+S'                self._UpdateDesc()'
+p274
+sI1602
+S'                #self._BindCols()'
+p275
+sI1603
+S''
+sI1604
+S'        else:'
+p276
+sI1605
+S'            self.execdirect(query_string)'
+p277
+sI1606
+S'        return self'
+p278
+sI1607
+S''
+sI1608
+S''
+sI1609
+S'    def _SQLExecute(self):'
+p279
+ssg91
+S'(self=<gluon.contrib.pypyodbc.Cursor instance>, query_string=\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\', params=None, many_mode=False, call_mode=False)'
+p280
+sg93
+g262
+sa(dp281
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\contrib\\pypyodbc.py'
+p282
+sg72
+(dp283
+S'self'
+p284
+S'<gluon.contrib.pypyodbc.Cursor instance>'
+p285
+sS'global check_success'
+p286
+S'<function check_success>'
+p287
+sS'ret'
+p288
+S'-1'
+p289
+ssg78
+I1631
+sg79
+(dp290
+I1632
+S'        self._NumOfRows()'
+p291
+sI1633
+S'        self._UpdateDesc()'
+p292
+sI1634
+S'        #self._BindCols()'
+p293
+sI1635
+S'        return self'
+p294
+sI1626
+S'            c_query_string = wchar_pointer(UCS_buf(query_string))'
+p295
+sI1627
+S'            ret = ODBC_API.SQLExecDirectW(self.stmt_h, c_query_string, len(query_string))'
+p296
+sI1628
+S'        else:'
+p297
+sI1629
+S'            c_query_string = ctypes.c_char_p(query_string)'
+p298
+sI1630
+S'            ret = ODBC_API.SQLExecDirect(self.stmt_h, c_query_string, len(query_string))'
+p299
+sI1631
+S'        check_success(self, ret)'
+p300
+ssg91
+S'(self=<gluon.contrib.pypyodbc.Cursor instance>, query_string=\'SELECT "auth_user"."id" FROM "auth_user" WHERE ("auth_user"."username" = \\\'ataar8300\\\');\')'
+p301
+sg93
+S'execdirect'
+p302
+sa(dp303
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\contrib\\pypyodbc.py'
+p304
+sg72
+(dp305
+S'ODBC_obj'
+p306
+S'<gluon.contrib.pypyodbc.Cursor instance>'
+p307
+sS'global ctrl_err'
+p308
+S'<function ctrl_err>'
+p309
+sS'ret'
+p310
+S'-1'
+p311
+sS'ODBC_obj.stmt_h'
+p312
+S'c_void_p(16771232L)'
+p313
+sS'global SQL_HANDLE_STMT'
+p314
+S'3'
+sS'ODBC_obj.ansi'
+p315
+S'False'
+p316
+ssg78
+I986
+sg79
+(dp317
+I981
+S''
+sI982
+S'def check_success(ODBC_obj, ret):'
+p318
+sI983
+S'    """ Validate return value, if not success, raise exceptions based on the handle """'
+p319
+sI984
+S'    if ret not in (SQL_SUCCESS, SQL_SUCCESS_WITH_INFO, SQL_NO_DATA):'
+p320
+sI985
+S'        if isinstance(ODBC_obj, Cursor):'
+p321
+sI986
+S'            ctrl_err(SQL_HANDLE_STMT, ODBC_obj.stmt_h, ret, ODBC_obj.ansi)'
+p322
+sI987
+S'        elif isinstance(ODBC_obj, Connection):'
+p323
+sI988
+S'            ctrl_err(SQL_HANDLE_DBC, ODBC_obj.dbc_h, ret, ODBC_obj.ansi)'
+p324
+sI989
+S'        else:'
+p325
+sI990
+S'            ctrl_err(SQL_HANDLE_ENV, ODBC_obj, ret, False)'
+p326
+ssg91
+S'(ODBC_obj=<gluon.contrib.pypyodbc.Cursor instance>, ret=-1)'
+p327
+sg93
+S'check_success'
+p328
+sa(dp329
+g70
+S'C:\\Users\\unificace\\unificace\\web2py\\gluon\\contrib\\pypyodbc.py'
+p330
+sg72
+(dp331
+S'state'
+p332
+S"u'01000'"
+p333
+sS'err_text'
+p334
+S"u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).'"
+p335
+sS'global DatabaseError'
+p336
+S"<class 'gluon.contrib.pypyodbc.DatabaseError'>"
+p337
+ssg78
+I966
+sg79
+(dp338
+I961
+S"            elif state in (raw_s('HYT00'),raw_s('HYT01')):"
+p339
+sI962
+S'                raise OperationalError(state,err_text)'
+p340
+sI963
+S"            elif state[:2] in (raw_s('IM'),raw_s('HY')):"
+p341
+sI964
+S'                raise Error(state,err_text)'
+p342
+sI965
+S'            else:'
+p343
+sI966
+S'                raise DatabaseError(state,err_text)'
+p344
+sI967
+S'            break'
+p345
+sI968
+S'        elif ret == SQL_INVALID_HANDLE:'
+p346
+sI969
+S'            #The handle passed is an invalid handle'
+p347
+sI970
+S"            raise ProgrammingError('', 'SQL_INVALID_HANDLE')"
+p348
+ssg91
+S'(ht=3, h=c_void_p(16771232L), val_ret=-1, ansi=False)'
+p349
+sg93
+S'ctrl_err'
+p350
+sasS'pyver'
+p351
+S'Python 2.7.13: c:\\python27\\python.exe (prefix: c:\\python27)'
+p352
+sS'session'
+p353
+g65
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp354
+sS'etype'
+p355
+S"<class 'gluon.contrib.pypyodbc.DatabaseError'>"
+p356
+sS'date'
+p357
+S'Sun Aug 13 18:31:10 2023'
+p358
+sS'response'
+p359
+g65
+(S's!\x16\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0000000006CA66F8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_init</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51-a1cb9871-5c63-4236-8f45-69de396c2e5d<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap3_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/index/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\sessions\\10.129.64.51-a1cb9871-5c63-4236-8f45-69de396c2e5d</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>c0762cbf4baf7f9af97c051e7fcb8083</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>10.129.64.51-a1cb9871-5c63-4236-8f45-69de396c2e5d</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>init</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/index.html</div></td></tr></table></div>'
+tRp360
+sS'locals'
+p361
+(dp362
+S'err_list'
+p363
+S"[(u'01000', u'[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).', 65534), (u'08S01', u'[Microsoft][ODBC SQL Server Driver][DBNETLIB]G...network error. Check your network documentation.', 11)]"
+p364
+sS'h'
+S'c_void_p(16771232L)'
+p365
+sS'raw_s'
+p366
+S"<type 'unicode'>"
+p367
+sS'ht'
+p368
+S'3'
+sS'Buffer_len'
+p369
+S'c_short(0)'
+p370
+sS'ansi'
+p371
+g316
+sS'state'
+p372
+S"u'01000'"
+p373
+sS'ODBC_func'
+p374
+S'<_FuncPtr object>'
+p375
+sS'ret'
+p376
+S'100'
+p377
+sS'Message'
+p378
+S'<ctypes.c_wchar_Array_4096 object>'
+p379
+sS'val_ret'
+p380
+S'-1'
+p381
+sS'number_errors'
+p382
+S'3'
+sS'NativeError'
+p383
+S'c_long(11)'
+p384
+sS'err_text'
+p385
+S"u'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).'"
+p386
+sssS'traceback'
+p387
+S'Traceback (most recent call last):\n  File ".\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\unificace\\unificace\\web2py\\applications\\init\\models\\db.py", line 365, in <module>\n    this_utg=db(db.auth_user.username==utg_user_id).select(db.auth_user.id)#if user already exist in auth_user table\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 2250, in select\n    return adapter.select(self.query, fields, attributes)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 762, in select\n    return self._select_aux(sql, fields, attributes, colnames)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 718, in _select_aux\n    rows = self._select_aux_execute(sql)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 712, in _select_aux_execute\n    self.execute(sql)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\__init__.py", line 67, in wrap\n    return f(*args, **kwargs)\n  File "C:\\Users\\unificace\\unificace\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 412, in execute\n    rv = self.cursor.execute(command, *args[1:], **kwargs)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 1605, in execute\n    self.execdirect(query_string)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 1631, in execdirect\n    check_success(self, ret)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 986, in check_success\n    ctrl_err(SQL_HANDLE_STMT, ODBC_obj.stmt_h, ret, ODBC_obj.ansi)\n  File ".\\gluon\\contrib\\pypyodbc.py", line 966, in ctrl_err\n    raise DatabaseError(state,err_text)\nDatabaseError: (u\'01000\', u\'[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()).\')\n'
+p388
+s.

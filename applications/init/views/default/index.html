@@ -1,0 +1,21 @@
+{{extend 'layout.html'}}
+
+{{block header}}
+    <header class="container-fluid background">
+      <div class="jumbotron text-center">
+        {{if response.title:}}
+        <h1> {{='Une solution évolutive'}} </h1>
+        {{pass}}
+      </div>
+    </header>
+{{end}}
+{{#'La sophistication dans sa forme la plus simple'}}
+{{#Unifying simple solutions to make another}}
+{{#<p>Unifier des solutions simples pour faire une autre</p>}}
+
+
+{{#=list(dict(request))}}
+
+{{#=session}}
+
+{{#=response}}
