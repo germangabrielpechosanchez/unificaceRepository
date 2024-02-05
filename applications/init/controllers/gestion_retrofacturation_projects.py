@@ -15,7 +15,7 @@
 response.menu = [
     (response.menu[0]), #Home - Page d'accueil
 
-    (T("Rétrofacturation du compte projets"), False, '#', [
+    (T("Réclassement du compte projets"), False, '#', [
         (T("Guide d'utilisation du module"), False, URL( f='index'),[]), 
         (T('Importation'), False, URL( f='importation'),[]),
         (T('Validation'), False, URL( f='validation'),[]),
@@ -277,7 +277,7 @@ def exportation():
         #2020-12-01#line="20;;;;;;;;;"+r.ci_type+"-"+r.name+"-"+r_descriptions+";1001;;"+account_code+";"+r.code_ecriture+";;;"+str(purchase_price)+";;;;;;;"+r_grm_code+"\r\n"
         line="20;;;;;;;;;"+r.ci_type+"-"+r.name+"-"+r_descriptions+";"+this_k_code+";"+this_l_code+";"+account_code+";"+code_ecriture+";"+this_o_code+";"+this_p_code+";"+str(purchase_price)+";;;;;;;"+r_grm_code+"\r\n"
         this_file.write(line)
-    line="20;;;;;;;;;Sortie d'inventaire equipements informatiques;1001;100111150095;;;;;"+str(total)+"\r\n"
+    line="20;;;;;;;;;Sortie d'inventaire equipements informatiques;1001;100132440000288410;;;;;"+str(total)+"\r\n"
     this_file.write(line)
     #line="99;"+str(len(rs)+3)+";;;;;;;;;;;;;\r\n"
     line="99;"+str(len(rs)+3)+";;;;;;;;;;;;;;;\r\n"

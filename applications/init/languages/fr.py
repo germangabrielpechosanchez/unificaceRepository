@@ -551,6 +551,8 @@
 'Réactivation des CIs - Retour en arrière': 'Réactivation des CIs - Retour en arrière',
 'Réactivé': 'Réactivé',
 'Réception marchandise': 'Réception marchandise',
+'Réclassement du compte projects': 'Réclassement du compte projects',
+'Réclassement du compte projets': 'Réclassement du compte projets',
 'Réexportation': 'Réexportation',
 'Réimpression': 'Réimpression',
 "Réimpression d'étiquettes": "Réimpression d'étiquettes",

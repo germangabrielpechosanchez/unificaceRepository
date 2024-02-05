@@ -56,7 +56,7 @@ response.menu = [
         (T('Gestion RDM & RDP'), False, URL('gestion_rdm_rdp', 'index'), []),
         (T('Gestion des serveurs'), False, URL('gestion_vms', 'index'), []),
         (T('Rétrofacturation du compte bilan'), False, URL('gestion_retrofacturation', 'index'), []),
-        (T('Rétrofacturation du compte projects'), False, URL('gestion_retrofacturation_projects', 'index'), []),
+        (T('Réclassement du compte projects'), False, URL('gestion_retrofacturation_projects', 'index'), []),
         (T('Calendrier financier'), False, URL('gestion_finance', 'index'), []),
         (T('Nomenclature pour des alias'), False, URL('gestion_nomenclature', 'index'), []),
         (T("Surveillance des alertes"), False, URL('alerts_monitoring', 'index'), []),
